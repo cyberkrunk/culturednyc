@@ -1,0 +1,5 @@
+{
+    "permalink": "/{{ title | slugify }}/index.html",
+    "layout": "article.njk",
+    "tags": "post"
+}
