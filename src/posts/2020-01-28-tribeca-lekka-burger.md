@@ -5,7 +5,7 @@ author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
-  - "restaurant review"
+  - "restaurants"
   - "vegan"
   - "vegetarian"
   - "veggie burger"

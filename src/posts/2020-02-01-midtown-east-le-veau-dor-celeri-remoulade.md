@@ -6,6 +6,7 @@ categories:
   - "food"
 tags: 
   - "recipes"
+  - "restaurants"
   - "french food"
   - "home cooking"
 coverImage: "celeri-remoulade.jpg"

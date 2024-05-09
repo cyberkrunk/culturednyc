@@ -11,15 +11,16 @@
         <nav>
     <ul class="sidebar">
         <li onclick=hideSidebar()><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="26" viewBox="0 -960 960 960" width="26"><path d="m249-207-42-42 231-231-231-231 42-42 231 231 231-231 42 42-231 231 231 231-42 42-231-231-231 231Z"/></svg></a></li>
-        <li><a href="/writing/">Writing</a></li>
-        <li><a href="/readings-seminars/">Readings&#47;Seminars</a></li>
-        <li><a href="/press-media-appearances/">Press&#47;Media Appearances</a></li>
+        <li class="hideOnMobile"><a href="/categories/food/">food</a></li>
+        <li class="hideOnMobile"><a href="/categories/music/">music</a></li>
+        <li class="hideOnMobile"><a href="/categories/friday-at-five/">friday at five</a></li>
     </ul>
     <ul>
         <li><a href="/"><img src="/culturednyc-logo.png" alt="cultured nyc"></a></li>
-        <li class="hideOnMobile"><a href="/writing/">Writing</a></li>
-        <li class="hideOnMobile"><a href="/readings-seminars/">Readings&#47;Seminars</a></li>
-        <li class="hideOnMobile"><a href="/press-media-appearances/">Press&#47;Media Appearances</a></li>
+        <li class="hideOnMobile"><a href="/">home</a></li>
+        <li class="hideOnMobile"><a href="/categories/food/">food</a></li>
+        <li class="hideOnMobile"><a href="/categories/music/">music</a></li>
+        <li class="hideOnMobile"><a href="/categories/friday-at-five/">friday at five</a></li>
         <li class="menu-button" onclick=showSidebar()><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="26" viewBox="0 -960 960 960" width="26"><path d="M120-240v-60h720v60H120Zm0-210v-60h720v60H120Zm0-210v-60h720v60H120Z"/></svg></a></li>
     </ul>
 </nav>
@@ -27,7 +28,9 @@
     <main>
         <div class="article-text">
         
-<h1>Posts by Chester Jankowski</h1>
+<h2>Posts by Chester Jankowski</h2>
+
+<br>
 
 <ul class="post-list">
 
@@ -134,15 +137,15 @@
         
     
         
+            <a href="/tags/restaurants">restaurants</a>, 
+        
+    
+        
             <a href="/tags/flatiron">flatiron</a>, 
         
     
         
             <a href="/tags/indian-food">indian food</a>, 
-        
-    
-        
-            <a href="/tags/restaurants">restaurants</a>, 
         
     
 </div>
@@ -349,6 +352,10 @@
         
     
         
+            <a href="/tags/restaurants">restaurants</a>, 
+        
+    
+        
             <a href="/tags/departed-midtown-east">departed midtown east</a>, 
         
     
@@ -378,7 +385,7 @@
         
     
         
-            <a href="/tags/restaurant-review">restaurant review</a>, 
+            <a href="/tags/restaurants">restaurants</a>, 
         
     
         
@@ -415,6 +422,10 @@
         
     
         
+            <a href="/tags/restaurants">restaurants</a>, 
+        
+    
+        
             <a href="/tags/french-food">french food</a>, 
         
     
@@ -444,7 +455,7 @@
         
     
         
-            <a href="/tags/restaurant-review">restaurant review</a>, 
+            <a href="/tags/restaurants">restaurants</a>, 
         
     
         
@@ -625,7 +636,7 @@
         
     
         
-            <a href="/tags/restaurant-review">restaurant review</a>, 
+            <a href="/tags/restaurants">restaurants</a>, 
         
     
         
@@ -703,7 +714,7 @@
         
     
         
-            <a href="/tags/restaurant-review">restaurant review</a>, 
+            <a href="/tags/restaurants">restaurants</a>, 
         
     
         
@@ -899,7 +910,7 @@
 
 
 
-        For the inaugural post of cultured nyc&#39;s cocktail column, we take a look at one of the great classics/: the Manhattan.
+        For the inaugural post of cultured nyc&#39;s cocktail column, we take a look at one of the great classics: the Manhattan.
 
         <p></p>
 
@@ -949,7 +960,7 @@
 
 
 
-        Our review of the jazz supergroup One For All and their celebration of Art Blakey/&#39;s centennial at Dizzy/&#39;s Club Coca-Cola.
+        Our review of the jazz supergroup One For All and their celebration of Art Blakey&#39;s centennial at Dizzy&#39;s Club Coca-Cola.
 
         <p></p>
 

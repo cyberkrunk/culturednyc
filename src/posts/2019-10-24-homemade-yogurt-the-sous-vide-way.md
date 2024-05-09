@@ -6,7 +6,7 @@ categories:
   - "food"
 tags: 
   - "recipes"
-  - "sous-vide"
+  - "sous vide"
 coverImage: "homemade-yogurt-sous-vide.jpg"
 description: "How to make homemade yogurt with a sous vide or immersion circulator."
 ---

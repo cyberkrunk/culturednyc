@@ -5,7 +5,7 @@ author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
-  - "restaurant review"
+  - "restaurants"
   - "fine dining"
 coverImage: "atelier-joel-robuchon-header.jpg"
 description: "We visited the Miami branch of the L'Atelier de Joël Robuchon. How would it stack up the other outposts of the late great chef?"

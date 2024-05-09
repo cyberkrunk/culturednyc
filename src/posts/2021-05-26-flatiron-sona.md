@@ -5,9 +5,9 @@ author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
+  - "restaurants"
   - "flatiron"
   - "indian food"
-  - "restaurants"
 coverImage: "sona-featured.jpg"
 description: "Our review of the new Indian restaurant Sona, in Flatiron, NYC."
 ---

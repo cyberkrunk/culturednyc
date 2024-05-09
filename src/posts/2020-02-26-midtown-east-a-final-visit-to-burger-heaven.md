@@ -5,6 +5,7 @@ author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
+  - "restaurants"
   - "departed midtown east"
   - "diner"
 coverImage: "burger-heaven.jpg"
