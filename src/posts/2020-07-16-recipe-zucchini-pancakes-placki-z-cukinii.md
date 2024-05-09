@@ -1,18 +1,20 @@
 ---
 title: "Recipe: Zucchini Pancakes – Placki z Cukinii"
 date: "2020-07-16"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
   - "recipes"
 coverImage: "zucchini-pancakes-featured.jpg"
+description: "Here's a nice riff on potato pancakes: zucchini pancakes. They're a little lighter, a little sweeter, but still savory and delicious!"
 ---
 
 You may think of potato pancakes as latkes, but for me, growing up in a Polish household, they were “placki” (‘plah-tski), something that my Mom would whip up from scratch if we were home for lunch, or as a snack. She would grate the potatoes and onions by hand, using a box grater. They were always topped with a big dollop of sour cream. (Sour cream was part of the weekly grocery list, we were never without it.) I started making them myself some years ago, partly out of nostalgia, partly out of the realization that they can become downright exquisite with the right toppings—how about smoked sablefish, crème fraiche, and caviar, paired with a little glass of ice-cold vodka!
 
 I don’t recall ever having zucchini pancakes growing up, but I’ve noticed that they seem to be another Polish staple. We got a couple of really nice zucchini in our farm box last week, and we have been very into savory fried pancakes lately, so we thought we would give them a try for lunch today. They turned out beautifully, and our method for making potato pancakes translated quite well. Bon appétit, or as they say in Polish, smacznego!
 
-#### Ingredients
+## Ingredients
 
 - 2 zucchinis
 - 1 spring onion
@@ -27,7 +29,7 @@ I don’t recall ever having zucchini pancakes growing up, but I’ve noticed th
 - ![Zucchini Pancakes ingredients](images/zucchini-pancakes-1.jpg)
 - ![Zucchini Pancakes grating](images/zucchini-pancakes-2.jpg)
 
-#### Method
+## Method
 
 Prepare the zucchinis for grating, just top and tail them if using a box grater, chop into manageable pieces if using the food processor. Prep the bulb of the onion for grating. Chop the green parts of the onion and set aside for topping the pancakes. Grate the zucchinis and onions together and set into a large mixing bowl. Cover the mixing bowl with a tea towel. Invert the bowl so that its contents go into the tea towel, gathering the towel together like a giant teabag. Over the sink, squeeze as much liquid out of the grated vegetables as possible. Return the vegetables back to the mixing bowl. Add the flour, salt, pepper, paprika, egg, and mix together.
 

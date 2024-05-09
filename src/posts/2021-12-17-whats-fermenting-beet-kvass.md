@@ -1,14 +1,16 @@
 ---
 title: "What’s Fermenting: Beet Kvass"
 date: "2021-12-17"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
   - "barszcz"
   - "beets"
-  - "fermented-foods"
+  - "fermented foods"
   - "vegetarian"
 coverImage: "feature-scaled.jpg"
+description: "As we prepare for our 2021 Polish Christmas Eve Wigilia dinner, we're making some beet kvass, a sour beet tonic that we will use in our barszcz, or Polish beet soup."
 ---
 
 As I write this, it is one week before Christmas Eve, 2021. COVID-19 is once again booming in New York City, and we are once again in “hunker down” mode. This year, we will have a quiet Christmas at home. For a few years now, we have been doing our own personal take on a traditional Polish Christmas Eve dinner, which is known as the _Wigilia_ (from the Latin for vigil). The Wigilia is by tradition a pescetarian meal, which is perfect for us, and gives us an excuse to whip up some of our favorite Polish dishes, especially pierogi.

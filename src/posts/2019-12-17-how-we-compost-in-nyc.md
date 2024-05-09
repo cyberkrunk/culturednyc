@@ -1,16 +1,17 @@
 ---
 title: "How We Compost in NYC"
 date: "2019-12-17"
+author: "Nora Maynard"
 categories: 
   - "food"
-  - "nyc"
 tags: 
+  - "nyc"
   - "composting"
-  - "green-living"
+  - "green living"
   - "greenmarket"
-  - "new-york"
-  - "zero-waste"
+  - "zero waste"
 coverImage: "East-River-NYC-Compost-Bins.jpg"
+description: "Composting in NYC is easier than you think, even in a small apartment."
 ---
 
 I started composting kitchen food scraps this year. It's easier than I thought and I'm never turning back. Here's how I make it work in my NYC apartment.
@@ -37,17 +38,17 @@ Roots and stems: compostable waste trimmings from radishes
 
 Flash forward six months and I'm a committed composter. (And Chester, having returned from his two-week workshop to the puzzling sight of a collection of peach pits and spent teabags in the freezer, is now fully on board too.) Here are a few things we learned along the way:
 
-### Why Compost?
+## Why Compost?
 
 I'd been vaguely aware that there were environmental benefits to composting. Turning food scraps into fertile garden soil instead of shipping them off to landfill could only be a good thing, right? [But, as I soon learned, there's much, much more to it.](https://homeguides.sfgate.com/composting-helps-environment-23577.html)
 
 If you send your banana peels and coffee grounds, etc. to oxygen-deprived landfill, they'll decompose anaerobically, releasing the greenhouse gas [methane, which has a significantly larger Global Warming Potential than CO2](https://www.epa.gov/ghgemissions/understanding-global-warming-potentials). But put that same banana peel and coffee filter into a well-aerated compost pile and they'll actually lock in carbon from the air as they break down.
 
-### What to Compost
+## What to Compost
 
 Guidelines will vary from program to program, so it's best to check in with the host organization on what they do and do not accept (click [here](https://www.grownyc.org/compost) for GrowNYC's). Animal products and food containing fats and oils are usually a no-go. Fruits, vegetables, grain products--basically anything non-greasy that came from a plant--are all good.
 
-### Where to Compost in NYC
+## Where to Compost in NYC
 
 <figure>
 
@@ -67,11 +68,11 @@ But if you're in a smaller building like we are, your best bet is to drop off yo
 
 Or for the adventurous, you might consider indoor [vermiculture](https://www.gardeningchannel.com/a-guide-to-composting-in-an-apartment/). Yes, folks, that's composting with live worms. (Erm, I don't think we have the closet space for that.)
 
-### Collecting and Storing
+## Collecting and Storing
 
 That first week I started composting, I stored all my scraps in the fridge a plastic bag I knotted closed at the top. They were a bit squishy to transport and stuck to the sides of the bag when I went to dump them out. The knot was hard to untie too. One of the compost concierges at Dag Hammarskjold Greenmarket saw me in my messy struggle and tactfully advised me to try a paper bag (which is also compostable) stored in the freezer--no emptying out required. I experimented and found paper bags to be too leaky for my liking. But the deep-freeze method was a definite improvement. I've got my personal system down now: a Ziploc bag (which I continue to wash and reuse until it falls apart) stored in the freezer.
 
-### Unexpected Benefits
+## Unexpected Benefits
 
 Since our household started composting, our (landfill) trash output has been drastically reduced. Instead of taking out a bag daily, we only take out a small bag once or twice a week. And because there's nothing organic in it to go bad, there's no rush.
 

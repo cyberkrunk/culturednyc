@@ -8,8 +8,14 @@ body{
     margin: auto;
     padding-left: 20px;
     padding-right: 20px;
-    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    font-size: 18px;
+    font-family: Garamond, "Times New Roman", serif;
+    font-size: 20px;
+}
+a:link{
+    color: #0073aa;
+}
+a:visited{
+    color: #0073aa;
 }
 nav{
     background-color: white;
@@ -38,6 +44,9 @@ nav a:hover{
 }
 nav li:first-child{
     margin-right: auto;
+}
+nav img{
+    height: 48px;
 }
 .sidebar{
     position: fixed;
@@ -73,6 +82,22 @@ nav li:first-child{
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 10px;
 }
+.byline{
+    font-size: smaller;
+    color: gray;
+}
+.byline a:link{
+    color: gray;
+    text-decoration: none;
+}
+.byline a:visited{
+    color: gray;
+    text-decoration: none;
+}
+.byline a:hover{
+    color: gray;
+    text-decoration: underline;
+}
 figure{
     text-align: center;
     font-style: italic;
@@ -87,6 +112,9 @@ img{
     width: 100%;
     height: auto;
 }
+.svg-icon{
+    vertical-align: text-top;
+}
 h1{
     font-size: 58px;
     font-weight: normal;
@@ -100,6 +128,9 @@ h2{
 p{
     line-height: 1.6;
     margin-bottom: 1.5em;
+}
+.post-list{
+    list-style-type: none;
 }
 .article-text{
     max-width: 36em;

@@ -1,16 +1,18 @@
 ---
 title: "Friday at five: Rob Roy"
 date: "2019-12-06"
+author: "Chester Jankowski"
 categories: 
   - "friday-at-five"
 tags: 
   - "cocktails"
-  - "scotch-whiskey"
+  - "scotch whiskey"
   - "whiskey"
 coverImage: "bar-wladorf-hotel.jpg"
+description: "A look at the Rob Roy cocktail, invented at the Waldorf Hotel bar in 1894 to celebrate the operetta of the same name by composer Reginald de Koven."
 ---
 
-#### Louis & Wally
+## Louis & Wally
 
 Did you know that Ludwig van Beethoven (1770-1827) and Walter Scott (1771-1832) were contemporaries? Even If you are not a classical music buff, you may have lately noticed more and more references to Beethoven popping up around you. Well please get ready, because you will see more and more Beethoven over the next year, as December 16 2020 will be the sestercentennial, or 250th, anniversary of his birth. Or so we assume, since we don’t know definitively on what day Beethoven was born, only the day of his baptism, which was December 17 1770, in Bonn, Germany. Even Beethoven didn’t know his own birthday, and at one point he asked his pupil, friend, and later, biographer, Ferdinand Ries, to do some research to help him figure it out. Scott will have his sestercentennial a year later, in 2021, and we in the US will have our country’s five years after that.
 
@@ -20,7 +22,7 @@ Late in his life, Scott had money problems too, although his trajectory was enti
 
 All-in-all, Scott’s collected works make for a very impressive leather-bound set. Judging by the number of these sets from the late 1800s that are still around in New York City, they seem to have been quite popular among the type of families who could afford to purchase them, and also to afford to keep them around in good condition for 150 years. At this moment, [Argosy Books](https://www.argosybooks.com) has available a set of the [Waverley Novels](https://www.argosybooks.com/advSearchResults.php?orderBy=saleprice2&action=search&cat_conj=or&keywordsField=walter+scott) in a centenary edition from 1871, 25 volumes and a comparative bargain at only $950. A fancier edition from 1877 in 48 volumes is currently available for $4,000. We can deduce from all these collected works sets that Scott was popular in New York City. But we also have more direct knowledge: in 1833, 6th Street in Greenwich Village was renamed Waverly Place in Scott’s honor. Pity they spelled “Waverley” wrong, but oh well, you say “whiskey,” I say “whisky.”
 
-#### Succession, 1890s Style
+## Succession, 1890s Style
 
 If you were a New Yorker in the 1890s and had the cash, not to mention the shelf space, for a 50-volume leather-bound set of the works of Walter Scott, you were probably the type of clientele that William Waldorf Astor had in mind when he opened his Waldorf Hotel at Thirty-third Street and Fifth Avenue in 1893. On February 13 of that year, the New York Times raved: “This hotel is a palace. The new Waldorf Hotel is soon to be opened. Its cost over $3,000,000. Fortunes expended upon a single room—a thirty-five hundred dollar bed. Plans for a grand opening next month.” Browsing through the Times archive of the subsequent months, you see many stories on the Waldorf—interesting ones that probably merit a post of their own. But then on November 3, 1893, a bombshell hits. “It will tower above the Waldorf; John Jacob Astor to build a hotel adjoining that of his cousin. An eighteen-story hotel is to be built by John Jacob Astor on the southwest corner of Fifth Avenue and Thirty-fourth Street, adjoining the Waldorf. If expectations are realized, it will be the largest, best equipped, and in most luxuriously appointed hotel in the world.”
 
@@ -30,7 +32,7 @@ The story reads:
 
 Family intrigue! Extreme wealth! Cousins making power moves just to piss each other off. Yes, this is the 1890s version of Succession. At the end of the Times story, they announce that John Jacob Astor had chosen a name for the hotel, “a capital one” at that, but he would not yet reveal it. Well, of course, he named it the Astoria Hotel. The Astoria opened in November, 1897, the Astor family having decamped from their brick house way uptown to Sixty-fifth Street and Fifth Avenue. The two hotels were at first operated separately, but both under the same general manager, George Boldt. But soon thereafter, they were combined into a single hotel, with a “Peacock Alley” skyway connecting the two properties above Thirty-third Street. The combined hotel became the Waldorf-Astoria, with the hyphen symbolizing the peacock alley. When Conrad Hilton bought management rights to the new Waldorf-Astoria (the old one was razed in 1929 to make way for another folly, the Empire State Building), he changed the hyphen to an equal sign, making the reference to the old skyway that much more explicit. Hilton dropped the hyphen in 2009, which is a pity.
 
-#### Oh Promise Me
+## Oh Promise Me
 
 Not far from the original Waldorf, the Herald Square Theatre opened at 1333 Broadway in 1883. Herald Square was, of course, the home of the New York Herald, a sort of Fox News for its age, and which would later become the Herald Tribune. The two famous squares on Broadway, are actually “bowtie” squares, each consisting of a pair of squares: Herald & Greeley, and eight blocks uptown, Times & Duffy.
 
@@ -42,7 +44,7 @@ Looking for another hit, de Koven settled upon Rob Roy for more Robin Hood-ish a
 
 Nonetheless, the show was a hit, running at the Herald Square Theatre through March 1894. And so, to celebrate the hit show running around the corner, one of the bartenders at the Waldorf came up with a show-themed cocktail, and the Rob Roy was born.
 
-#### The Damn Drink
+## The Damn Drink
 
 If Rob Roy the operetta is the red-headed stepchild of Robin Hood the operetta, I don’t think you could quite say the same about Rob Roy the cocktail in relation to the Manhattan. True, that’s the easiest way to conceive of a Rob Roy--as a Manhattan with scotch whiskey subbed for rye. And that’s undoubtedly how the drink’s originator came up with the idea. But since the world of scotch whiskey is so vast, this drink can go in a million different directions, some of which are amazing. Mixing one up with a relatively neutral blended whiskey, like Famous Grouse for example, and you have not strayed too far from Manhattan town. Going with a single malt that is balanced but with some nice peat, say a Glen Morangie, or a Cardhu, and now you are really venturing into new territory. How about with a peat bomb from Islay like a Lagavulin or a Laphraoig? Off the Island for sure!
 

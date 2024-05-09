@@ -8,12 +8,16 @@
 </head>
 <body>
     <header>
+        {% include 'header.njk' %}
     </header>
     <main>
         <h1>{{ title }}</h1>
         <img src="images/{{ coverImage }}" alt="{{ title }}">
+        {% include 'byline-article.njk' %}
         <div class="article-text">
+        <br><hr><br>
         {{ content | safe }}
+        <br><hr><br>
         </div>
     </main>
 </body>

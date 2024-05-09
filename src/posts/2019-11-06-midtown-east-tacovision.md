@@ -1,17 +1,19 @@
 ---
-title: "Midtown East: Tacovision"
+title: "Midtown East: TacoVision"
 date: "2019-11-06"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
+  - "restaurant review"
   - "cocktails"
   - "margarita"
-  - "mexican-food"
-  - "midtown-east"
+  - "mexican food"
+  - "midtown east"
   - "nachos"
-  - "restaurant-review"
   - "tacos"
 coverImage: "tacovision-nyc-neon-sign.jpg"
+description: "We visited TacoVision, a new Midtown East taco bar from the team at Crave Fishbar."
 ---
 
 When we heard that the folks at [Crave Fishbar](https://cravefishbar.com/) were opening a taco joint in our hood, we were thrilled. Crave is our go-to seafood restaurant in Midtown East, and it’s got a lot going for it: great oysters, a solid wine list, healthy and delicious fish and seafood options, and a really lively dining-at-the-bar scene. So we had high hopes for [Tacovision](https://tacovisionnyc.com/), the team’s new taco bar on East 53rd Street. With the Crave pedigree, we were expecting great fish and seafood options, as well as solid vegetarian and vegan choices. In short, we were not disappointed.
@@ -82,7 +84,7 @@ With the departures of some good, and some not so good, Mexican and taco joints,
     </figure>
     
 
-#### Details
+## Details
 
 Tacovision  
 244 E 53rd St, New York, NY 10022  

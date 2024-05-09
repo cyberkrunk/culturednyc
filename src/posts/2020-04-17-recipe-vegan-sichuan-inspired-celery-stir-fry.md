@@ -1,6 +1,7 @@
 ---
 title: "Recipe: Vegan Sichuan Inspired Celery Stir Fry"
 date: "2020-04-17"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
@@ -8,6 +9,7 @@ tags:
   - "vegan"
   - "vegetarian"
 coverImage: "sichuan-celery-large.jpg"
+description: "A large supply of celery on hand inspired us to make this delicious vegan Sichuan-styled celery stir fry."
 ---
 
 Thanks to COVID-19 era food shopping, we are finding ourselves with huge amounts of certain ingredients. Right now we have about five bunches of celery! We saw a great idea for Sichuan celery on [Ruth Reichl’s Instagram](https://www.instagram.com/ruth.reichl/). That made me think of one of our current favorite recipes, which is Diana Kuan’s [Vegetarian Mapo Tofu](http://appetiteforchina.com/recipes/vegetarian-mapo-tofu). I improvised a bit with Kuan’s recipe and came up with this recipe for the celery stir fry. It was amazing! 

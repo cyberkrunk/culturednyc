@@ -1,12 +1,14 @@
 ---
 title: "Carnegie Hall Opening Night"
 date: "2021-10-07"
-categories: 
+author: "Chester Jankowski"
+categories:
   - "music"
 tags: 
   - "beethoven"
-  - "classical-music"
+  - "classical music"
 coverImage: "carnegie-hall-opening-night.jpg"
+description: "For the opening night of Carnegie Hall's 2021-2022 season, Yannick Nézet-Séguin led the Philadelphia orchestra in a performance of Beethoven, Shostakovich, Bernstein, Valerie Coleman, and Imam Habibi."
 ---
 
 ## The shock of the 5th
@@ -31,7 +33,7 @@ Nézet-Séguin and the Philadelphia Orchestra will be returning over the coming 
 
 The evening began with a piece by [Valerie Coleman](https://www.vcolemanmusic.com/) (b. 1970). _Seven O'Clock Shout_ hearkens back to the days of COVID-19 lockdown, and the nightly 7:00 pm cheers for healthcare and frontline workers. The piece was also commissioned by the Philadelphia Orchestra who, astonishingly, gave Coleman only two weeks to complete it! (Coleman had previously been commissioned by the orchestra for their season opening concert in 2019. This ultra brief commissioning period demonstrates a profound mutual respect and trust that must have developed through that first commission.) The piece was commissioned in lockdown, and premiered in lockdown, with each musician recording their performance solo, the whole brought together in a video. Fanfares lead to lush Debussy-esque passages, to a rollicking 7:00 pm cheers.
 
-https://youtu.be/uvBkdLqbKfw
+[blah](https://youtu.be/uvBkdLqbKfw)
 
 ## Mid-century modern
 

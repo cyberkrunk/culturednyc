@@ -1,14 +1,16 @@
 ---
 title: "Friday at five: Old Pal"
 date: "2019-11-01"
+author: "Chester Jankowski"
 categories: 
-  - "friday-at-five"
+  - "friday at five"
 tags: 
-  - "campari"
   - "cocktails"
-  - "dry-vermouth"
-  - "rye-whiskey"
+  - "campari"
+  - "dry vermouth"
+  - "rye whiskey"
 coverImage: "old-pal-cocktail.jpg"
+description: "We take a look at the Old Pal, a classic equal parts whiskey cocktail from Harry MacElhone of Harry's New York Bar in Paris."
 ---
 
 A guy walks into a bar:  
@@ -25,7 +27,7 @@ I'm a big fan of Negronis--they're my go-to when I'm looking for a gin cocktail 
 
 The drink was created by Harry MacElhone, of Harry's New York Bar in Paris, in honor of his friend and frequent customer, William "Sparrow" Robertson, a sports writer for the New York Herald. Robertson would call everyone his "old pal," and the drink was named. The associations with Harry's and Paris in the '20s complete the allure of the drink for me.
 
-#### Ingredients
+## Ingredients
 
 - 1 oz Rye Whiskey
 - 1 oz Campari
@@ -57,7 +59,7 @@ The drink was created by Harry MacElhone, of Harry's New York Bar in Paris, in h
     </figure>
     
 
-#### Method
+## Method
 
 Build in a tumbler filled with ice. Serve with a lemon twist for garnish.
 

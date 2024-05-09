@@ -1,12 +1,14 @@
 ---
 title: "What's fermenting: Union Square Greenmarket Sauerkraut"
 date: "2019-10-28"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
-  - "fermented-foods"
   - "recipes"
+  - "fermented foods"
 coverImage: "sauerkraut-beauty-shot.jpg"
+description: "We made sauerkraut with beautiful cabbages from the Union Square Greenmarket."
 ---
 
 Friday was a gorgeous day in New York, perfect for our weekly visit to the [Union Square Greenmarket](https://www.grownyc.org/greenmarket/manhattan-union-square-m). Who knows how many more days we will have like this? Traditionally, end of harvest is the last chance to ferment, can, and store food for the rough season ahead. Even though we already have plenty on hand, we stopped off at the Oak Grove Plantation stall to get another beautiful batch of chilis for this year’s fermented hot sauce production. We also picked up some green and red cabbage, and bolero carrots for our latest fermentation project, sauerkraut. Sauerkraut is not exactly a staple of ours, but Nora has been making excellent [homemade kimchi](https://www.culturednyc.com/whats-fermenting-easy-homemade-vegan-kimchi/) for a couple of years now, and we thought this would be a good time to branch out.
@@ -17,14 +19,14 @@ I grew up in a very Polish household. Every house we lived in had either a prope
 - ![Sauerkraut chopping cabbages.](images/sauerkraut-chopping-cabbage.jpg)
 - ![Sauerkraut shredding carrots.](images/sauerkraut-shredding-carrots.jpg)
 
-#### Ingredients
+## Ingredients
 
 - 1 head green cabbage
 - 1 head red cabbage
 - 4 carrots
 - Sea salt
 
-#### Method
+## Method
 
 1. Clean cabbages and retain some of the outer leaves.
 2. Scrub and trim 4 carrots, do not peel.
@@ -43,7 +45,7 @@ I grew up in a very Polish household. Every house we lived in had either a prope
 - ![Sauerkraut packing jars.](images/sauerkraut-packing-jars.jpg)
 - ![Sauerkraut in jars.](images/sauerkraut.jpg)
 
-#### Notes
+## Notes
 
 The main vessel we are using to ferment this is a 1.5L vintage [Le Parfait Super Jar](https://www.leparfait.com/le-parfait-super-jars) that Nora found at the [Housing Works](https://www.housingworks.org/) Thrift Shop. We closed the lid when we packed it, and by Saturday evening, the gas buildup was substantial, opening the lid released a violent spritz of purply brine. After that, we have mostly been keeping the lid loose. When first shredding all the cabbage, it seemed like it would be an enormous volume, but that went down after the squeezing step, and went down further after packing into the jar.
 

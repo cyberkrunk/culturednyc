@@ -1,13 +1,15 @@
 ---
 title: "Friday at five: Rye Manhattan"
 date: "2019-10-11"
+author: "Chester Jankowski"
 categories: 
-  - "friday-at-five"
+  - "friday at five"
 tags: 
   - "cocktails"
-  - "rye-whiskey"
+  - "rye whiskey"
   - "whiskey"
 coverImage: "DSC08058-2.jpg"
+description: "For the inaugural post of cultured nyc's cocktail column, we take a look at one of the great classics/: the Manhattan."
 ---
 
 Welcome to the inaugural post in cultured nyc’s weekly cocktail column, Friday at five. It’s autumn in New York--our favorite time of the year. Even though we haven’t had much sweater weather yet, it’s time to start thinking about warming up with some whiskey. Not only that, but today is [Rye Day](https://www.grownyc.org/blog/rye-day-1011-union-square-greenmarket) at the [Union Square Greenmarket](https://www.grownyc.org/greenmarket/manhattan-union-square-m). Frye-day, if you will, kicking off a week-long celebration of New York state rye. We had the chance to sample rye whiskeys from [Breukelen Distilling](https://brkdistilling.com/), [Nahmias et Fils](https://www.nahmiasetfils.com/), and New York Distilling Company. We were taken with all of these, and will be featuring these whiskies in coming weeks.

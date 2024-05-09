@@ -6,7 +6,8 @@ categories:
   - "nyc"
 tags: 
   - "art"
-coverImage: "mwiener_studio4_850.jpg"
+coverImage: "mwiener-studio-crop.jpg"
+description: "We remember our friend the NYC artist Mark Wiener."
 ---
 
 Ten years ago today, we lost our dear friend, the NYC artist Mark Wiener. Mark was one of those special humans—some of us are lucky enough to get to know one or two people like this over the course of a lifetime. Warm and kind and thoughtful and funny, he was also one of life’s great connectors—a person with a genius for bringing people together. We’d like to share a few of our thoughts and memories of Mark.
@@ -25,14 +26,9 @@ And so it went for years. Mark worked at a torturous pace all day, spent every n
 
 <figure>
 
-![The artist Mark Wiener in his studio](images/mwiener_studio4_850.jpg)
+![The artist Mark Wiener in his studio](images/mwiener-studio-crop.jpg)
 
-<figcaption>
-
-The artist Mark Wiener in his studio
-
-</figcaption>
-
+<figcaption>The artist Mark Wiener in his studio</figcaption>
 </figure>
 
 Mark’s final studio was at the Cold Castle, the colloquial name for a group of studios in a building with no central heating at West 21st Street and 11th Avenue. Mark did some of his best [work](https://www.saatchiart.com/mwienerarts) there, and one of our favorite pieces from that era adorns our music studio at home. Years of non-stop striving began taking a toll. Mark worked hard and was successful enough to support himself in New York City through painting abstract canvasses. That’s amazing. But in America, we are content for our artists to live on the margins and forgo things that are considered basic necessities in other countries, like healthcare. Mark could pay rent on his apartment and studio through his painting, but one thing he did not have was health insurance. When he first felt his energy waning, he thought it was from overwork, but tragically, he learned he had a serious heart condition.

@@ -1,12 +1,14 @@
 ---
 title: "Homemade Yogurt the Sous Vide Way"
 date: "2019-10-24"
+author: "Nora Maynard"
 categories: 
   - "food"
 tags: 
   - "recipes"
   - "sous-vide"
 coverImage: "homemade-yogurt-sous-vide.jpg"
+description: "How to make homemade yogurt with a sous vide or immersion circulator."
 ---
 
 I've always been wary of unitaskers in the kitchen, those one-trick pony gadgets that get used for a few short weeks or months before falling into back-of-cupboard oblivion. But after watching a [demo video](https://www.americastestkitchen.com/episode/615-sous-vide-for-everybody) on America's Test Kitchen, it was clear a sous vide machine could offer big multitasker potential.
@@ -37,7 +39,7 @@ I checked on my yogurt-in-progress a couple of times as it sat in its warm bath,
 - ![Filling jars with milk and culture in prep for sous vide homemade yogurt.](images/homemade-yogurt-filling-jars-in-prep-for-sous-vide.jpg)
 - ![Jars of milk and starter culture in sous vide for homemade yogurt.](images/homemade-yogurt-jars-in-sous-vide.jpg)
 
-### Sous Vide Yogurt
+## Sous Vide Yogurt
 
 - 1 quart milk
 - 3 tablespoons plain, full fat yogurt

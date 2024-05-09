@@ -1,13 +1,15 @@
 ---
 title: "Friday at five: The Rusty Nail"
 date: "2019-12-30"
+author: "Chester Jankowski"
 categories: 
-  - "friday-at-five"
+  - "friday at five"
 tags: 
   - "cocktails"
   - "drambuie"
-  - "scotch-whiskey"
+  - "scotch whiskey"
 coverImage: "rusty-nail-large.jpg"
+description: "We look at the the classic cocktail, the Rusty Nail. Is it an \"old man drink\" and should it be rescued from that status?"
 ---
 
 Is there such a thing as an “old man drink?” In the early 90s, we were in our 20s, and into cocktails. Although this predates the canonical “cocktail renaissance,” you could still find cocktails in Toronto. For the most part, the cocktails you were likely to encounter fell into three categories: 70s singles bar cocktails, contemporary twists on the same, a small subset of classic cocktails. Of that last group, the few classic cocktails you encountered weren’t likely to be particularly well-made. People were drinking [Manhattans](https://www.culturednyc.com/friday-at-five-rye-manhattan/), but in Toronto, they were usually made with Canadian whisky. (No doubt in part due to the confusion between Canadian rye and American straight rye. We would never make that mistake now, right?)
@@ -20,7 +22,7 @@ During that era, I remember having an after dinner drink at a wedding with the f
 
 I began my Rusty Nail research at [Hudson Malone](http://www.hudsonmalone.com/). I asked my bartender if anyone ever ordered the drink. He laughed a bit and said, “Rusty Nail? That’s something my parents would order.” OK, some evidence to support my thesis. The question is, should we rescue the drink? For me, the answer is a resounding yes! It’s a very simple drink: scotch on the rocks with a hint of [Drambuie](https://www.drambuie.com/about-us/). Perhaps a bit sweet for an aperitif, but I like it as an after dinner drink. Really the only variability is the type of scotch and the amount of Drambuie. I’ve tried many variations over the last few weeks, and here’s where I landed.
 
-#### Rusty Nail
+## Rusty Nail
 
 - 2 oz blended Scotch whisky (Johnnie Walker Black, or Famous Grouse)
 - ½ oz Drambuie

@@ -1,14 +1,16 @@
 ---
 title: "Recipe: Viennese Krautfleckerl (Pasta & Cabbage)"
 date: "2020-02-04"
+author: "Nora Maynard"
 categories: 
   - "food"
 tags: 
-  - "fermented-foods"
-  - "pasta"
   - "recipes"
+  - "fermented foods"
+  - "pasta"
   - "vienna"
 coverImage: "Cafe-Central-Vienna-Krautfleckerl.jpg"
+description: "Wiener Krautflerckerl is a classic Viennese dish made with pasta and cabbage. We made our version at home and gave it a Polish twist by using sauerkraut."
 ---
 
 I'm sorry to say the first time I encountered krautfleckerl, I gave it a hard pass.
@@ -57,7 +59,7 @@ He made the noodles from scratch using Marcella Hazan's recipe (2 eggs and 1 cup
 
 This was a labor-intensive but delicious weekend version of the recipe. For a quick weeknight dinner, store-bought egg noodles (or really any other wide, flatish pasta like farfalle) would do just fine. Either way, the ingredients are very inexpensive for such a satisfying and luxurious-tasting dish.
 
-### Krautfleckerl
+## Krautfleckerl
 
 (serves 2)
 

@@ -1,11 +1,13 @@
 ---
 title: "Dave Stryker Trio at the Bar Next Door"
 date: "2019-10-11"
+author: "Chester Jankowski"
 categories: 
   - "music"
 tags: 
   - "jazz"
 coverImage: "IMG_3513.jpg"
+description: "Our review of the Dave Stryker Trio at the Bar Next Door."
 ---
 
 [Smalls](https://www.smallslive.com/) lives up to its name, and [Mezzrow](https://www.mezzrow.com/) is even smaller. [The Bar Next Door](https://lalanternacaffe.com/barnextdoor.html) is even more intimate than either. When you’re sitting at the tables directly in front of the musicians, you’re almost close enough to boop them on the nose while they play. We settled into one of those tables to catch [Dave Stryker](https://www.davestryker.com) and his trio Thursday night. The Bar Next Door, is “next door” to, or more accurately, in the basement of [La Lanterna](https://www.lalanternacaffe.com/), a nice Italian caffe and wine bar on Macdougal in the heart of the Village. The pizzas are good, the wine list is big, and there’s not a bad seat in the house, so it’s usually a good place to listen.

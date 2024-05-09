@@ -9,6 +9,7 @@ tags:
   - "indian food"
   - "restaurants"
 coverImage: "sona-featured.jpg"
+description: "Our review of the new Indian restaurant Sona, in Flatiron, NYC."
 ---
 
 ## Reemergence
@@ -91,9 +92,7 @@ Midway through our meal, we got to meet Sona’s restaurateur, [Maneesh K. Goyal
 <figcaption>Gruyère Cheese Dosa</figcaption>
 </figure>
 
-
 Our main courses arrive—we are over-ordering, because we want to try everything! Something I knew I had to try as soon as I saw it on the menu: ‘Gruyère Cheese Dosa’ edamame arbi mash, coconut and roasted tomato chutney ($22). I was wondering not so much ‘if’ it would work, as ‘how’ it would work. I think the main thing is the Gruyère is not over-applied, it adds just a bit of unexpected, but welcome, flavor and the tiniest bit of gooey texture. Man. I ordered Floyd’s Goan Fish Curry with coconut seafood broth, kokum, and red rice ($34). This dish is in honor of [Floyd Cardoz](https://www.nytimes.com/2020/03/25/dining/floyd-cardoz-dead-coronavirus.html?smid=url-share), who had been chef at nearby Tabla, and tragically died of COVID-19 in March of 2020. Nora went with Green Pepper Halibut: banana leaf wrapped fillet, fresh turmeric reduction, cassava ($38). Both were delicious and perfectly cooked. At the suggestion of our server, we had some roomali roti ($8) to help ensure we got every bit of the sauces.
-
 
 <figure>
 

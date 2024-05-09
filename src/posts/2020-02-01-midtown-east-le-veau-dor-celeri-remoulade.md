@@ -1,12 +1,15 @@
 ---
 title: "Midtown East: Le Veau d’Or & Céleri Rémoulade"
 date: "2020-02-01"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
-  - "french-food"
-  - "home-cooking"
+  - "recipes"
+  - "french food"
+  - "home cooking"
 coverImage: "celeri-remoulade.jpg"
+description: "Inspired by our dearly departed favorite restaurant, Le Veau d'Or, we made one of their iconic dishers, Céleri Rémoulade."
 ---
 
 Le Veau d’Or was without a doubt our restaurant of the ‘teens. Stradling the border of Midtown East, and the Upper East Side, it was a quick stumble away. For years, we would pass by that storefront with brass sign, intrigued and yet something always held us back. Maybe we thought the menu was too meat-centric. Anthony Bourdain gave us the needed push in his 2009 “Disappearing Manhattan” episode of No Reservations. We dressed up, gulped hard, and stepped in.

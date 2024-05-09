@@ -1,17 +1,19 @@
 ---
 title: "Recipe: Rye and Whole Wheat Sourdough Bread"
 date: "2020-04-13"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
   - "recipes"
   - "sourdough"
 coverImage: "sourdough-bread-1.jpg"
+description: "Here's a look at the method we have been using for making sourdough bread for the last four years, along with our current favorite recipe."
 ---
 
 I got into bread baking about four years ago. Before venturing into sourdough, I baked many of the loaves in Ken Forkish’s great bread book, _Flour, Water, Salt, Yeast_. Once I got into sourdough I spent the next couple of years essentially making the same loaf over and over again. This was the country bread from Chad Robertson’s _Tartine Bread_. Eventually, I was practiced enough to feel comfortable riffing on the method. This recipe is for my current favorite, which is a blend of rye, whole wheat, and white flour. 
 
-#### Ingredients 
+## Ingredients 
 
 - 750 g water at 87 F 
 - 200 g levain (sourdough starter) 50/50 whole wheat/unbleached all-purpose at 100% hydration 
@@ -22,7 +24,7 @@ I got into bread baking about four years ago. Before venturing into sourdough, I
 - 50 g water at 87 F 
 - Rice flour for dusting 
 
-#### Essential Tools 
+## Essential Tools 
 
 - Vessel for mixing, bulk fermentation. We use a Cambro 12 qt round polypropylene food storage container. 
 - Digital food scale, large format for weighing flour, dough, etc. 
@@ -34,7 +36,7 @@ I got into bread baking about four years ago. Before venturing into sourdough, I
 - 2 cast iron dutch ovens. We use Lodge black cast iron 4 qt. 
 - Cooling rack 
 
-#### Method Overview 
+## Method Overview 
 
 1. Preparing the levain 
 2. Autolyse 
@@ -45,7 +47,7 @@ I got into bread baking about four years ago. Before venturing into sourdough, I
 7. Baking 
 8. Cooling
 
-#### The Method in Detail 
+## The Method in Detail 
 
 1. **Preparing the Levain** 
 
@@ -470,7 +472,7 @@ This is also an essential part of the process. Of course, you will be tempted to
 
 </figure>
 
-#### Some thoughts on this bread 
+## Some thoughts on this bread 
 
 If you are not familiar with this style of bread, it may cause you to rethink some of your bread assumptions. First off, the notion of ‘freshness’ and avoiding ‘day old’ bread. This bread actually keeps getting better and better. The flavor continues to develop and starts to peak after about the third day. We were at a book event with Appolonia Poilâne from the famous French bakery, and she told a story of a vacation with friends. She had brought one of Poilâne’s famous miche breads, and she and her friends ate that one bread for over 12 days, using it in ways best suited to its characteristics on each subsequent day. 
 

@@ -1,11 +1,13 @@
 ---
 title: "Barry Harris at the Village Vanguard"
 date: "2019-10-12"
+author: "Chester Jankowski"
 categories: 
   - "music"
 tags: 
   - "jazz"
 coverImage: "IMG_3437.jpg"
+description: "Our review of the Barry Harris Trio at the Village Vanguard."
 ---
 
 How early do you have to arrive to be the first in line at the [Village Vanguard](https://villagevanguard.com/)? I found out last weekend, two nights in a row. The first set at the Vanguard starts at 8:30, and the doors open at 7:30. On Saturday night, we gambled that 6:45 would be early enough. And it was, but just barely, because the line began forming behind us within a few minutes. We always run into nice people on line at the Vanguard. We met Dan, who had flown in from Detroit just to catch [Barry Harris](http://barryharris.com/). Dan is a Barry Harris superfan, but not a musician himself.
@@ -18,42 +20,28 @@ Stylistically, Barry has strong links with two other pianists, Bud Powell and Th
 
 So Barry had already been a teacher and a mentor in Detroit in the 1950s. In the 1970s, he started teaching workshops in New York. From 1982-87, he taught at the Jazz Cultural Workshop, which he co-founded. Since then, he has maintained his own weekly workshops in New York. I first started attending them off and on about five years ago. They take place every Tuesday night when Barry is in town, from six until midnight, divided into sessions for pianists, singers, and then at ten, improvisers on all instruments. The only reason I don’t go every week is that I already have enough of Barry’s materials to work on for the next few decades. When Barry is on tour internationally, he conducts workshops there too. Through that process, he has developed a couple of generations’ worth of acolytes. One of the most prominent of the younger generation is the brilliant Italian guitarist [Pasquale Grasso](https://www.pasqualegrasso.com/), who has standing set at [Mezzrow](https://www.mezzrow.com/) every Monday night. If Bud Powell is like Charlie Parker playing the piano, Pasquale is like Bud Powell playing the guitar.
 
-- <figure>
-    
-    ![First in line at the Village Vanguard](images/59209319178__A80449DB-1AFE-42FE-BAAF-79C282278405.jpg)
-    
-    <figcaption>
-    
-    First in line
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Barry Harris Trio at the Village Vanguard](images/59209312458__D62B2982-C12A-43E2-B71D-38EC799BC5BA.jpg)
-    
-    <figcaption>
-    
-    Barry Harris Trio
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Seats for night two at the Village Vanguard](images/IMG_3444.jpg)
-    
-    <figcaption>
-    
-    Night two seats
-    
-    </figcaption>
-    
-    </figure>
-    
+<div class="two-column">
+<figure>
+
+![First in line at the Village Vanguard](images/59209319178__A80449DB-1AFE-42FE-BAAF-79C282278405.jpg)
+
+<figcaption>First in line</figcaption>
+</figure>
+
+<figure>
+
+![Barry Harris Trio at the Village Vanguard](images/59209312458__D62B2982-C12A-43E2-B71D-38EC799BC5BA.jpg)
+
+<figcaption>Barry Harris Trio</figcaption>
+</figure>
+</div>
+
+<figure>
+
+![Seats for night two at the Village Vanguard](images/IMG_3444.jpg)
+
+<figcaption>Night two seats</figcaption>
+</figure>
 
 We settled in for the first set on Saturday night. Having arrived first, I was able to grab the seat directly to Barry’s left, maybe two feet away from him. Barry came on with his trio of many years, with [Ray Drummond](https://en.wikipedia.org/wiki/Ray_Drummond) on bass, and [Leroy Willams](https://en.wikipedia.org/wiki/Leroy_Williams) on drums. Barry began his banter. It had been a tragic couple of weeks for master jazz pianists. [Harold Mabern](https://www.nytimes.com/2019/09/23/arts/music/Harold-Maborn-dead.html) had died on September 17, [Richard Wyands](https://jazztimes.com/features/tributes-and-obituaries/richard-wyands-1928-2019/) died on September 25, and [Larry Willis](https://jazztimes.com/features/tributes-and-obituaries/larry-willis-1942-2019/) died on September 29. Barry sang a tune dedicated to all three. For the rest of the set, Barry narrated an improvised story that he used to introduce each tune. “You are walking down the street, and you see someone who looks really fine, and you think to yourself, ‘_I Want To Be Happy_.’” Hit it. Later on, Barry played _Blue Monk_, and I still have goosebumps thinking about it. The set wrapped up with one of Barry’s audience participation numbers, which he referred to as “jazz karaoke.” “Ok, we need a number from one to eight.” Someone calls out, “eight!” and we all feel bad for that guy. “No, man,” Barry laughs, “something better than that!” Barry is asking for musical intervals, out of which he will improvise a new tune. I think that night the pattern was “two-four-five-three.” A few members of Barry’s choir were in the audience, and they sang along. I sang along too. I always look forward to Barry’s tune Nascimento, which will often end a set and is another tune that the audience sings and claps to, but he ran out of time.
 

@@ -1,16 +1,18 @@
 ---
 title: "What's fermenting: Easy Homemade (Vegan) Kimchi"
 date: "2019-11-07"
+author: "Nora Maynard"
 categories: 
   - "food"
 tags: 
-  - "condiments"
-  - "fermented-foods"
-  - "korean"
   - "recipes"
+  - "fermented foods"
+  - "condiments"
+  - "korean"
   - "vegan"
   - "vegetarian"
 coverImage: "Homemade-Vegan-Kimchi.jpg"
+description: "Easy recipe for vegan kimchi."
 ---
 
 You might say I caught the fermentation bug from kimchi.

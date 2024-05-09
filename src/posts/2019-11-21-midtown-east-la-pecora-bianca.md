@@ -1,14 +1,16 @@
 ---
 title: "Midtown East: La Pecora Bianca"
 date: "2019-11-21"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
-  - "italian-food"
-  - "midtown-east"
+  - "restaurant review"
+  - "italian food"
+  - "midtown east"
   - "produttori"
-  - "restaurant-review"
 coverImage: "la-pecora-bianca-nervi-gattinara-bucatini-cacio-e-pepe.jpg"
+description: "We do a capsule review of the Midtown East modern Italian restaurant La Pecora Bianca."
 ---
 
 After [debuting its first location in NoMad](https://www.nytimes.com/2015/07/29/dining/la-pecora-bianca-joins-the-italian-crowd.html) in 2015, the Midtown East branch of [La Pecora Bianca](https://www.lapecorabianca.com/location/midtown/) opened with some neighborhood buzz in October 2017. I recall chatting about it in expectation with the folks across the street at [Somm Time](https://www.sommtimewinebar.com/) just before opening. In the weeks afterward, it turned into somewhat of a hang for the somms, and it did for us too! The restaurant would feature locally-sourced produce and meat, pastas made with ancient and whole grains, and an Italian wine list. I have to admit that the first thing that caught my eye on the menu was [Produttori del Barbaresco](http://www.produttoridelbarbaresco.com) by the glass. I had a feeling right then that this could be our kind of place.
@@ -80,7 +82,7 @@ The main dining area is rather large, on the bright side and with a volume level
     </figure>
     
 
-#### Details
+## Details
 
 La Pecora Bianca  
 950 2nd Avenue, New York, NY 10022  

@@ -1,13 +1,15 @@
 ---
 title: "Recipe: Sourdough Crackers"
 date: "2020-03-26"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
-  - "baking"
   - "recipes"
   - "sourdough"
+  - "baking"
 coverImage: "crackers-cooling.jpg"
+description: "These sourdough crackers are addictively satisfying, and are another great use for sourdough starter that you might otherwise discard."
 ---
 
 Because of COVID-19, people around the world are sheltering in place. Here in NYC, most people are hunkered down, and that includes us. We are only venturing outside for essentials, and to go for an occasional run or cautious birding trip to Central Park. Otherwise, we are at home cooking up a storm!  

@@ -1,13 +1,15 @@
 ---
 title: "Recipe: Easy Kimchi Pancakes"
 date: "2020-03-15"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
-  - "fermented-foods"
-  - "kimchi"
-  - "recipes"
+- "recipes"
+- "fermented foods"
+- "kimchi"
 coverImage: "kimchi-pancakes-1.jpg"
+description: "We love making these easy sourdough kimchi pancakes, which are a great use for sourdough starter that would be otherwise discarded."
 ---
 
 We absolutely love homemade sourdough bread, and we’ve been making it for close to four years now. For all that time, we have had two sourdough starters going. One of our starters is 50/50 whole wheat/white flour, his name is Charlie Driggs, named for the character played by Jeff Daniels in the 1986 Jonathan Demme film, Something Wild. The other starter is 100% white flour, and his name is Charlie Watts. Collectively, we call them “The Charlies.”

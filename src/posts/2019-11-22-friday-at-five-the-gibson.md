@@ -1,15 +1,18 @@
 ---
 title: "Friday at five: The Gibson"
 date: "2019-11-22"
+author: "Chester Jankowski"
 categories: 
-  - "friday-at-five"
+  - "friday at five"
 tags: 
-  - "bette-davis"
-  - "bombay-sapphire-gin"
+  - "cocktails"
+  - "bette davis"
+  - "bombay sapphire gin"
   - "film"
-  - "gibson-cocktail"
-  - "plymouth-gin"
+  - "gibson cocktail"
+  - "plymouth gin"
 coverImage: "plymouth-gibson-21-new-york-2.jpg"
+description: "Fasten your seat belts! This week, we take a look at the Gibson cocktail, and how the Plymouth Gibson became my drink."
 ---
 
 If you asked [Doug Quinn](https://www.nytimes.com/2010/05/28/dining/28bruni.html), owner and bartender at Midtown East’s [Hudson Malone](http://www.hudsonmalone.com/), what my drink is, he’d probably say, ‘rye Manhattan.’ And it’s true, I do order a lot of those, and it’s even the drink we chose to launch this column. But I’ve always had a lot of drinks in the rotation, mostly sticking to the classics. That is, unless I’m at one of my favorite craft cocktail joints like [Amor Y Amargo](https://www.amoryamargony.com/) in New York, or [Stagger Lee](http://www.staggerlee.de/) in Berlin. In that case, I’ll gladly let their list of in-house specialties map the way. However, if you were to ask the same question of [Tom Dillon](https://www.irishtimes.com/news/the-king-of-new-york-1.112938), my friend who is also the lunch service bartender at [La Grenouille](http://la-grenouille.com/), he would unhesitatingly answer, ‘Oh, that’s easy—a Plymouth Gibson.’ And now that I think of it, that is almost always my first order when Tom and I are out. Increasingly, over the years, it has become my go-to cocktail.

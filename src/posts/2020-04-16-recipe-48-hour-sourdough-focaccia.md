@@ -1,19 +1,21 @@
 ---
 title: "Recipe: 48 Hour Sourdough Focaccia"
 date: "2020-04-16"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
   - "recipes"
   - "sourdough"
 coverImage: "sourdough-focaccia-pizza-large-1.jpg"
+description: "The recipe for our favorite sourdough focaccia, which proofs in the fridge for a full 48 hours!"
 ---
 
 Here’s another favorite recipe–and a real crowd-pleaser–that I’ve been riffing on for the past few years. If you’re just getting into sourdough baking, this one is much more approachable than the full-on [sourdough bread recipe](https://www.culturednyc.com/recipe-rye-and-whole-wheat-sourdough-bread/) I posted earlier. In fact, this one is so straightforward that I always make the dough as a side-project while I’m making sourdough bread.  
 
 What makes this recipe so simple? A few things. There’s no stretching and folding during bulk fermentation. The shaping is minimal, so even though the dough is very slack, there’s less risk of disaster. And since you’re baking on well-oiled parchment-paper-lined sheet pans, it’s even easier than making pizza.
 
-#### Ingredients 
+## Ingredients 
 
 - 630 g water at 87 F 
 - 20 g salt 
@@ -23,7 +25,7 @@ What makes this recipe so simple? A few things. There’s no stretching and fold
 - 700 g unbleached all-purpose flour 
 - Olive oil 
 
-#### Essential Tools 
+## Essential Tools 
 
 - Vessel for mixing, bulk fermentation. We use a Cambro 6 qt round polypropylene food storage container. 
 - Digital food scale, large format for weighing flour, dough, etc. 

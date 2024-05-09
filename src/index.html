@@ -3,22 +3,19 @@ title: "Home page"
 layout: "home.njk"
 ---
 
-<ul>
+<ul class="post-list">
 
 {% for post in collections.post reversed %}
 
-<h2><li><a href="{{ post.url }}">{{ post.data.title }}</a></li></ul></h2>
+<h2><li><a href="{{ post.url }}">{{ post.data.title }}</a></li></h2>
 
+{% include 'byline.njk' %}
 
+{{ post.data.description }}
 
-Author: {{ post.data.author }} Date: {{ post.data.date }} Category: {{ post.data.categories }} Tags:
-    {% for tag in post.data.tags %}
-        {% if tag != 'post' %}
-            {{ tag }}
-            {%- if not forloop.last %}, {% endif %}
-        {% endif %}
-    {% endfor %}
-    
+<p></p>
+
 {% endfor %}
 
 </ul>
+

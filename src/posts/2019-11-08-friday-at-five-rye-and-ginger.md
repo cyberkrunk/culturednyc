@@ -1,14 +1,16 @@
 ---
 title: "Friday at five: Rye and Ginger"
 date: "2019-11-08"
+author: "Chester Jankowski"
 categories: 
-  - "friday-at-five"
+  - "friday at five"
 tags: 
-  - "fermented-drinks"
+  - "fermented drinks"
   - "ginger"
-  - "ginger-beer"
-  - "rye-whiskey"
+  - "ginger beer"
+  - "rye whiskey"
 coverImage: "rye-and-ginger-mixed-drink.jpg"
+description: "Rye and ginger is a classic mixed drink, which can be elevated from old man drink status by using an American straight rye and a good punch ginger beer."
 ---
 
 > “Give me a whisky, ginger ale on the side. And don’t be stingy, baby!”
@@ -21,7 +23,7 @@ In Canada, up through the 90s at least, which is when I left Ontario for NYC, Ry
 
 For my own version today, I’m going to skip the Canadian whisky and opt instead for an excellent NY state rye, [Breuckelen Distilling](https://brkdistilling.com/) bottled in bond small batch. And I’m also subbing in my own house-made fermented ginger beer-- recipe to follow soon! My current batch of ginger beer isn't super carbonated yet (it's only been going for two days), but it has a lovely yeasty, slightly funky, honey and spice flavor profile. If I were served this blind, I would not guess in a million years that this is a two-ingredient drink.
 
-#### Ingredients
+## Ingredients
 
 - A shot of rye whiskey
 - Ginger beer
@@ -39,7 +41,7 @@ Ginger bug, like a sourdough starter for ginger beer.
 
 </figure>
 
-#### Variations
+## Variations
 
 For a classic Rye and Ginger, use Canadian whisky and commercial ginger ale. To make a Horse’s Neck, substitute brandy (classic) or bourbon (another variation), serve on the rocks and garnish with a long lemon twist, extending outside the rim of the glass.
 

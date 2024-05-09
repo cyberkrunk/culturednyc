@@ -2,6 +2,7 @@ const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/style.css");
+	eleventyConfig.addPassthroughCopy("./src/culturednyc-logo.png");
     eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 		// which file extensions to process
 		extensions: "html",

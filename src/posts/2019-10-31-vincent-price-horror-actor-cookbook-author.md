@@ -1,15 +1,17 @@
 ---
 title: "Vincent Price, Horror Actor...Cookbook Author"
 date: "2019-10-31"
+author: "Nora Maynard"
 categories: 
   - "food"
 tags: 
+  - "recipes"
   - "cookbooks"
   - "halloween"
   - "pumpkin"
-  - "recipes"
   - "vintage"
 coverImage: "Vincent-Price-Treasury-Greatest-Recipes.jpg"
+description: "A look inside Vincent Price's classic cookbook, A Treasury of Great Recipes."
 ---
 
 I've always loved Vincent Price's ghoulish persona as a horror actor. He combined rarefied charm with an uncanny creepiness. But he was also clearly having fun, and he wanted us all to be in on it.
@@ -48,7 +50,7 @@ The Prices entertain guests on the go in their elegant mobile home
 
 By the way, are you getting a Halloween pumpkin this year? Chester and I got one, but haven't carved it yet. Once we do, we're going to put the seeds to good use. Here's a recipe for pepitas à la curry that Emilio Gonzalez, then owner of Sobrino de Botín in Madrid, shared with with the Prices during one of their visits. The original specifies commercially hulled pumpkin seeds (aka pepitas), but we're going to give whole seeds a try.
 
-#### **Pepitas** à **la Curry (Curried Pumpkin Seeds**)
+## **Pepitas** à **la Curry (Curried Pumpkin Seeds**)
 
 (adapted from _A Treasury of Great Recipes_ by Mary and Vincent Price)
 

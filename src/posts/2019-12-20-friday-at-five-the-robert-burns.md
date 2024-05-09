@@ -1,12 +1,14 @@
 ---
 title: "Friday at five: The Robert Burns"
 date: "2019-12-20"
+author: "Chester Jankowski"
 categories: 
-  - "friday-at-five"
+  - "friday at five"
 tags: 
   - "cocktails"
-  - "scotch-whiskey"
+  - "scotch whiskey"
 coverImage: "robert-burns-cocktail-bar-shun.jpg"
+description: "This week, we take a look at another classic Scotch whiskey cocktail: the Robert Burns, or the Bobby Burns, or the Bobbie Burns, it gets complicated..."
 ---
 
 Towards the end of my post on the [Rob Roy](https://www.culturednyc.com/friday-at-five-rob-roy/), I pondered swapping out the bitters in the drink for something sweet, like Benedictine, or Drambuie. Now we will take up that thread as we continue our look at Scotch whiskey cocktails for December. I have known about the Robert Burns and Bobby Burns cocktails for as long as I have known about the Rob Roy, and that is a long time. But I’ve always been a little bit hazy on the details of these drinks, and it turns out, that’s understandable.
@@ -17,7 +19,7 @@ To begin with, one can’t be blamed for assuming that the Robert Burns is named
 
 Crockett lists the recipe as follows:
 
-#### Robert Burns
+## Robert Burns
 
 - Dash of Orange Bitters
 - One dash of Absinthe
@@ -26,7 +28,7 @@ Crockett lists the recipe as follows:
 
 Compare this to his recipe for the Rob Roy, just down the same page:
 
-#### Rob Roy
+## Rob Roy
 
 - Dash of Orange Bitters
 - One-half Scotch
@@ -34,7 +36,7 @@ Compare this to his recipe for the Rob Roy, just down the same page:
 
 So, it’s like a drier version of a Rob Roy, with the addition of absinthe. (Also, recall that the Rob Roy is meant to be a red drink, in honor of its red-headed namesake.) But was Crockett just kidding around about the cigar salesman? Well, I wonder, because here’s what Harry Craddock wrote five years earlier in The Savoy Cocktail Book (1930):
 
-#### Bobby Burns Cocktail\*
+## Bobby Burns Cocktail\*
 
 - ½ Italian Vermouth.
 - ½ Scotch Whisky.
@@ -114,7 +116,7 @@ For my next Robert Burns, I enjoyed one pre-diner at [Bar Shun](https://shun-nyc
 
 </figure>
 
-#### My Robert Burns
+## My Robert Burns
 
 - ¾ Scotch whiskey (Johnnie Walker Black or Famous Grouse)
 - ¼ Italian vermouth

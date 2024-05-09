@@ -1,13 +1,16 @@
 ---
 title: "TriBeCa: Lekka Burger"
 date: "2020-01-28"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
+  - "restaurant review"
   - "vegan"
   - "vegetarian"
-  - "veggieburger"
+  - "veggie burger"
 coverImage: "lekka-burger.jpg"
+description: "We take a quick look at vegan chef Amanda Cohen's new vegan burger joint, Lekka Burger."
 ---
 
 Amanda Cohen, at the helm at [Dirt Candy](https://www.dirtcandynyc.com/), is arguably NYC's top vegan chef. When we heard that she was opening a vegan burger joint in TriBeCa, we were thrilled! Today we got to try it. The restaurant is called [Lekka Burger](https://www.lekkaburger.com/), and it's at 81 Warren Street, right around the corner from Sonic Youth's old studio on Murray Street.

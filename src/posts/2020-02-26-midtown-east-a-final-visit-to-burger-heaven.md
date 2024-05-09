@@ -1,12 +1,14 @@
 ---
 title: "Midtown East: A Final Visit to (Burger) Heaven"
 date: "2020-02-26"
+author: "Chester Jankowski"
 categories: 
   - "food"
 tags: 
-  - "departed-midtown-east"
+  - "departed midtown east"
   - "diner"
 coverImage: "burger-heaven.jpg"
+description: "We paid our final visit to a Midtown East breakfast and lunch favorite Burger Heaven, which is closing this week after 77 years."
 ---
 
 A young woman walks across the crowded diner floor, hands the manager an envelope and says, “I have a present for you.” The manager hugs her and replies, “You’re my present!” An older trio open the front doors, struggling a bit against the windy day, and a server walks over to them, gives them hugs, and they all exchange sad expressions. Variations on this theme played out many times during our visit, our final visit to Burger Heaven over the lunch hour.

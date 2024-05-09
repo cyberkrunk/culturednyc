@@ -1,11 +1,13 @@
 ---
 title: "One For All celebrates Art Blakey at Dizzy's"
 date: "2019-10-09"
+author: "Chester Jankowski"
 categories: 
   - "music"
 tags: 
   - "jazz"
 coverImage: "one-for-all-cover.jpg"
+description: "Our review of the jazz supergroup One For All and their celebration of Art Blakey/'s centennial at Dizzy/'s Club Coca-Cola."
 ---
 
 We are now in an era of jazz centenaries. Thelonious Monk, Dizzy Gillespie, and Ella Fitzgerald had theirs in 2017. Charlie Parker will have his next year. Barry Harris is just shy of ten years away from his. On October 11 2019, the honor goes to Art Blakey. Several events in New York this week will serve to commemorate. I caught One For All at [Dizzy’s](https://www.jazz.org/dizzys/) on Tuesday night. This supergroup sextet features [Eric Alexander](https://www.ericalexanderjazz.com/), [Jim Rotundi](https://www.jimrotondi.com/), [Steve “Stevie D!” Davis](http://stevedavismusic.com/), [David Hazeltine](https://www.davidhazeltine.com/), and [Joe Farnsworth](https://www.joefarnsworthdrums.com/). Eric had just flown in from Vancouver early that morning, and Jim had just flown in from Vienna.
