@@ -3,7 +3,7 @@ title: "Friday at five: Rob Roy"
 date: "2019-12-06"
 author: "Chester Jankowski"
 categories: 
-  - "friday-at-five"
+  - "friday at five"
 tags: 
   - "cocktails"
   - "scotch whiskey"

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>about</title>
+</head>
+<body>
+    <header>
+        <nav>
+    <ul class="sidebar">
+        <li onclick="hideSidebar()"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="26" viewBox="0 -960 960 960" width="26"><path d="m249-207-42-42 231-231-231-231 42-42 231 231 231-231 42 42-231 231 231 231-42 42-231-231-231 231Z"></path></svg></a></li>
+        <li><a href="/about/">about</a></li>
+        <li><a href="/food/">food</a></li>
+        <li><a href="/music/">music</a></li>
+        <li><a href="/friday-at-five/">friday at five</a></li>
+    </ul>
+    <ul>
+        <li><a href="/"><picture><source type="image/webp" srcset="/img/lEH1TNptfO-190.webp 190w"><img loading="lazy" decoding="async" src="/img/lEH1TNptfO-190.jpeg" alt="cultured nyc" width="190" height="190"></picture></a></li>
+        <li class="hideOnMobile"><a href="/">home</a></li>
+        <li class="hideOnMobile"><a href="/about/">about</a></li>
+        <li class="hideOnMobile"><a href="/food/">food</a></li>
+        <li class="hideOnMobile"><a href="/music/">music</a></li>
+        <li class="hideOnMobile"><a href="/friday-at-five/">friday at five</a></li>
+        <li class="menu-button" onclick="showSidebar()"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="26" viewBox="0 -960 960 960" width="26"><path d="M120-240v-60h720v60H120Zm0-210v-60h720v60H120Zm0-210v-60h720v60H120Z"></path></svg></a></li>
+    </ul>
+</nav>
+    </header>
+    <main>
+        <div class="article-text">
+        <h3>About cultured nyc</h3>
+<p><br><br></p>
+<div class="two-column">
+<p>Nora Maynard’s writing has appeared in <em>Salon</em>, <em>Food Republic</em>, <em>Leite’s Culinaria</em>, and <em>Chowhound</em>. She did a six-year run as a writer at <em>The Kitchn</em> with her weekly columns “The Celluloid Pantry” (on food and drink in film) and “Straight Up” (on cocktails and spirits). <a href="http://www.noramaynard.com">noramaynard.com</a></p>
+<figure>
+<p><picture><source type="image/webp" srcset="/about-cultured-/EtzYPzxYKQ-500.webp 500w"><img loading="lazy" decoding="async" src="/about-cultured-/EtzYPzxYKQ-500.jpeg" alt="Nora Maynard in Paris with seafood tower." width="500" height="500"></picture></p>
+<figcaption>Nora Maynard - co-founder</figcaption>
+</figure>
+</div>
+<div class="two-column">
+<p>Chester Jankowski is a composer, musician, and technologist based in New York. He writes about music, the arts, and film, and is cultured nyc's resident baker and hot sauce fermenter. <a href="https://www.chesterjankowski.com">chesterjankowski.com</a></p>
+<figure>
+<p><picture><source type="image/webp" srcset="/about-cultured-/4gOw6m7ZZv-500.webp 500w"><img loading="lazy" decoding="async" src="/about-cultured-/4gOw6m7ZZv-500.jpeg" alt="Chester Jankowski in Berlin at David Bowie's neighborhood bar." width="500" height="500"></picture></p>
+<figcaption>Chester Jankowski - co-founder</figcaption>
+</figure>
+</div>
+<p><br></p><hr><br><p></p>
+
+        </div>
+    </main>
+
+        <script>
+        function showSidebar(){
+            const sidebar = document.querySelector('.sidebar')
+            sidebar.style.display = 'flex'
+        }
+        function hideSidebar(){
+            const sidebar = document.querySelector('.sidebar')
+            sidebar.style.display = 'none'
+        }
+    </script>
+
+</body>
+</html>

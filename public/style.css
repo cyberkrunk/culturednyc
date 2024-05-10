@@ -19,7 +19,7 @@ a:visited{
 }
 nav{
     background-color: white;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid gray;
 }
 nav ul{
     width: 100%;
@@ -38,15 +38,21 @@ nav a{
     display: flex;
     align-items: center;
     color: black;
+    font-weight: bolder;
+    letter-spacing: -0.5;
 }
 nav a:hover{
-    background-color: lightgray;
+    text-decoration: underline;
+    outline-color: black;
 }
 nav li:first-child{
     margin-right: auto;
 }
 nav img{
     height: 48px;
+    outline: 2px;
+    outline-width: 2px;
+    outline-color: black;
 }
 .sidebar{
     position: fixed;
@@ -55,7 +61,7 @@ nav img{
     height: 100vh;
     width: 250px;
     z-index: 999;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.8);
     backdrop-filter: blur(10px);
     box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
     display: none;
@@ -116,13 +122,16 @@ img{
     vertical-align: text-top;
 }
 h1{
+    color: black;
     font-size: 58px;
     font-weight: normal;
     line-height: 1.2;
 }
 h2{
+    color: black;
     font-size: 36px;
-    font-weight: normal;
+    font-weight: bolder;
+    letter-spacing: -1px;
     line-height: 1.4;
 }
 p{

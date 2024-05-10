@@ -3,11 +3,16 @@ pagination:
   data: collections
   size: 1
   alias: tag
-layout: 'home.njk'
-permalink: /tags/{{ tag | slugify }}/
+  filter:
+    - all
+    - posts
+layout: "home.njk"
+permalink: "/tag/{{ tag | slugify }}/"
+eleventyExcludeFromCollections: "true"
+description: "All posts with the tag: {{ tag }}."
 ---
 
-<h2>Posts with the tag “{{ tag }}”</h2>
+<h3>Tag archive: {{ tag }}</h3>
 
 <br>
 
@@ -17,13 +22,17 @@ permalink: /tags/{{ tag | slugify }}/
 
 {% for post in taglist | reverse %}
 
- <h2><li><a href="{{ post.url }}">{{ post.data.title }}</a></li></h2>
+  <h2><li><a href="{{ post.url }}">{{ post.data.title }}</a></li></h2>
 
-{% include 'byline.njk' %}
+<img src="/posts/images/{{ post.data.coverImage }}" alt="{{ post.data.title }}">
 
-{{ post.data.description }}
+  {% include 'byline.njk' %}
 
-<p></p>
+  <br>
+
+  {{ post.data.description }}
+
+  <p></p>
 
 {% endfor %}
 

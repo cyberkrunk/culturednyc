@@ -15,10 +15,13 @@
         <img src="images/{{ coverImage }}" alt="{{ title }}">
         {% include 'byline-article.njk' %}
         <div class="article-text">
-        <br><hr><br>
+        <br><br>
         {{ content | safe }}
-        <br><hr><br>
+        <br><br>
         </div>
     </main>
+
+    {% include 'script.njk' %}
+
 </body>
 </html>
