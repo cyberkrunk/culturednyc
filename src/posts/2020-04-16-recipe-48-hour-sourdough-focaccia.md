@@ -15,17 +15,17 @@ Here’s another favorite recipe–and a real crowd-pleaser–that I’ve been r
 
 What makes this recipe so simple? A few things. There’s no stretching and folding during bulk fermentation. The shaping is minimal, so even though the dough is very slack, there’s less risk of disaster. And since you’re baking on well-oiled parchment-paper-lined sheet pans, it’s even easier than making pizza.
 
-## Ingredients 
+## Ingredients
 
-- 630 g water at 87 F 
-- 20 g salt 
-- 200 g levain (sourdough starter) 50/50 whole wheat/unbleached all-purpose at 100% hydration 
-- 100 g rye flour 
-- 100 g whole wheat flour 
-- 700 g unbleached all-purpose flour 
-- Olive oil 
+- 630 g water at 87 F
+- 20 g salt
+- 200 g levain (sourdough starter) 50/50 whole wheat/unbleached all-purpose at 100% hydration
+- 100 g rye flour
+- 100 g whole wheat flour
+- 700 g unbleached all-purpose flour
+- Olive oil
 
-## Essential Tools 
+## Essential Tools
 
 - Vessel for mixing, bulk fermentation. We use a Cambro 6 qt round polypropylene food storage container. 
 - Digital food scale, large format for weighing flour, dough, etc. 
@@ -35,7 +35,7 @@ What makes this recipe so simple? A few things. There’s no stretching and fold
 - 2 Half sheet pans for baking, parchment paper 
 - Cooling rack 
 
-#### Method Overview 
+## Method Overview 
 
 - Preparing the levain 
 - Autolyse – 30 minutes 
@@ -45,7 +45,7 @@ What makes this recipe so simple? A few things. There’s no stretching and fold
 - Baking – 20 minutes at 475 F 
 - Cooling 
 
-#### Method 
+## Method 
 
 Start with your mixing vessel and add the 630 g water. Add the salt and mix. Add the levain and mix. Add the flour and mix to combine. Leave for a 30-minute autolyse. After the autolyse, it’s time to mix the dough. You can turn it out onto a floured work surface, but I do this step inside the Cambro. Mix the dough well, using a combination of kneading, stretching, folding. This will take about five minutes. Make sure all the flour is well incorporated and there are no dry spots. Top with a brushing of olive oil, covering the entire dough mass. Cover the mixing vessel and leave it for 3-4 hours of bulk fermentation. I keep the dough at 80-81 F.  
 
@@ -57,50 +57,11 @@ Top each focaccia as you like. See below for some ideas. Bake at 475 F for 10 mi
 
 Place on a cooling rack for 10 minutes. Unlike the sourdough bread, if you really, really want to eat this before cooling, that’s OK. I like it better after it has cooled a bit.
 
-<figure>
+<figure><img src="images/sourdough-focaccia-after-proofing.jpg" alt="Sourdough focaccia dough after proofing"><figcaption>After the 48-hour proof</figcaption></figure>
+<figure><img src="images/sourdough-focaccia-serving.jpg" alt="Sourdough focaccia - Margherita, olives-anchovies-cheese"><figcaption>Margherita, olives-anchovies-cheese</figcaption></figure>
+<figure><img src="images/sourdough-focaccia-crumb.jpg" alt="Sourdough focaccia - Crumb!"><figcaption></figcaption>Crumb!</figure>
 
-- <figure>
-    
-    ![Sourdough focaccia dough after proofing](images/sourdough-focaccia-after-proofing.jpg)
-    
-    <figcaption>
-    
-    After the 48-hour proof
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough focaccia](images/sourdough-focaccia-serving.jpg)
-    
-    <figcaption>
-    
-    Margherita, olives-anchovies-cheese
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough focaccia](images/sourdough-focaccia-crumb.jpg)
-    
-    <figcaption>
-    
-    Crumb!
-    
-    </figcaption>
-    
-    </figure>
-    
-
-
-
-</figure>
-
-#### Topping Ideas 
+## Topping Ideas 
 
 - Dried herbs, olive oil, salt 
 - Anchovies, olives, cheese 
@@ -108,26 +69,5 @@ Place on a cooling rack for 10 minutes. Unlike the sourdough bread, if you reall
 - Pizza style 
 - One of our favorites: Pissaladière-style, with caramelized onions and anchovies 
 
-<figure>
-
-![Sourdough focaccia](images/sourdough-focaccia-pissaladiere-1.jpg)
-
-<figcaption>
-
-Pissaladière style
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-![Sourdough focaccia](images/sourdough-focaccia-pizza-small-1.jpg)
-
-<figcaption>
-
-Pizza style
-
-</figcaption>
-
-</figure>
+<figure><img src="images/sourdough-focaccia-pissaladiere-1.jpg" alt="Sourdough focaccia - Pissaladière style"><figcaption>Pissaladière style</figcaption></figure>
+<figure><img src="images/sourdough-focaccia-pizza-small-1.jpg" alt="Sourdough focaccia - Pizza style"><figcaption>Pizza style</figcaption></figure>

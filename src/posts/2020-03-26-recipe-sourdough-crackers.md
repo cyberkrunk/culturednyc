@@ -47,17 +47,13 @@ The sourdough starter should be unfed, let’s say 24 hours or maybe a bit longe
 
     ![Sourdough crackers](images/crackers1.jpg)
 
-    <figcaption>Rolling out the dough</figcaption>
-
-</figure>
+<figcaption>Rolling out the dough</figcaption></figure>
     
 <figure>
 
     ![Sourdough crackers rolling](images/crackers-rolling.jpg)
 
-    <figcaption>Roll it out nice and thin</figcaption>
-
-</figure>
+<figcaption>Roll it out nice and thin</figcaption></figure>
 
 </div>
 
@@ -69,17 +65,13 @@ Before you cut the dough, go over it lightly with the tines of a fork to create 
 
     ![Sourdough crackers](images/crackers2.jpg)
 
-    <figcaption>Cutting the crackers</figcaption>
-
-</figure>
+<figcaption>Cutting the crackers</figcaption></figure>
     
 <figure>
 
     ![Sourdough crackers](images/crackers3.jpg)
 
-    <figcaption>The bake</figcaption>
-
-</figure>
+<figcaption>The bake</figcaption></figure>
 
 For the bake, you can do both pans at once. 350 F for about 20 minutes. Turn and swap the pans midway through. This is the really tricky part. Depending on how evenly you rolled out the dough, the edges may get to done before the middles. Do lots of testing, often. Under baked, they won’t be satisfyingly crisp. But then they can start to get burnt in an instant. You should probably do the “Great British Baking Show crouch” for the last few minutes. 
 
@@ -89,6 +81,4 @@ Once they are done, take them out and cool them on a wire rack. You can break ap
 
   ![Sourdough crackers](images/crackers4.jpg)
 
-  <figcaption>Service suggestion</figcaption>
-
-</figure>
+<figcaption>Service suggestion</figcaption></figure>

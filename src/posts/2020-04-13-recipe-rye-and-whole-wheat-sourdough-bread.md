@@ -70,331 +70,163 @@ The purpose of the autolyse is to allow the water to integrate with the flour an
 
 <figure>
 
-- <figure>
-    
-    ![Sourdough bread workspace](images/sourdough-bread-02.jpg)
-    
-    <figcaption>
-    
-    The workspace
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread workspace](images/sourdough-bread-03.jpg)
-    
-    <figcaption>
-    
-    Weigh out the water
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread workspace](images/sourdough-bread-04.jpg)
-    
-    <figcaption>
-    
-    Weigh out the levain
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-05.jpg)
-    
-    <figcaption>
-    
-    Mix the water and levain
-    
-    </figcaption>
-    
-    </figure>
-    
+![Sourdough bread workspace](images/sourdough-bread-02.jpg)
 
-
-
-</figure>
-
-3. **Bulk Fermentation** – **3 Hours** 
-
-As the name implies, the dough will do much of its rise during this period. In this method, the dough is not kneaded in the traditional way. Instead, the dough develops structure through a series of stretches and folds. I aim for a constant dough temperature of around 80 F. If the dough gets too cold, between folds I will leave it in an oven that has been warmed to 100 F then turned off.   
-
-- Add 20 g of salt 
-- Add remaining 50 g of water at 87 F 
-- Use your hands to thoroughly mix the dough, incorporating the salt and added water 
-- Perform the first stretch and fold: grab a piece of dough, pull it up as far as it will stretch without breaking, then fold it back on itself, turn the vessel and continue until you have gone all the way around 
-- For the next three hours, perform a stretch and fold every 30 minutes, for a total of six 
-- At the end of three hours, the dough will has risen by around 30%, and will be very smooth and slack, and will pass the ‘window pane test’ 
+<figcaption>The workspace</figcaption></figure>
 
 <figure>
 
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-08.jpg)
-    
-    <figcaption>
-    
-    Second mix
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-09.jpg)
-    
-    <figcaption>
-    
-    Ready for stretch and fold
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-13.jpg)
-    
-    <figcaption>
-    
-    Stretch
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-12.jpg)
-    
-    <figcaption>
-    
-    Stretch
-    
-    </figcaption>
-    
-    </figure>
-    
+![Sourdough bread workspace](images/sourdough-bread-03.jpg)
 
+<figcaption>Weigh out the water</figcaption></figure>
 
-
-</figure>
-
-4. **First Shaping and Bench Rest – 20 Minutes** 
-
-This is where things can get a little tricky, especially if you are not experienced with handling a very slack dough. All I can say is, you need to use the “Carnegie Hall” method: practice, practice, practice. We are making two boules, so the first step is to divide the dough. Then we will shape the two halves into boules and let them rest before the next step. 
-
-- Lightly flour your workspace 
-- Lightly flour the top and edges of the dough 
-- Turn the dough out onto the workspace 
-- Using your bench scraper, shape the dough mass into a circle, this will allow you to eyeball where to divide the dough into two equal halves 
-- Use your bench scraper to divide the dough 
-- Add some flour to the dough where you divided it 
-- Weigh each piece to see how close you came to equal, if necessary, add dough from one piece to another 
-- Shape the first boule: grab a piece of dough, stretch and fold, turn 90 degrees and repeat for a total of four folds 
-- Slide your bench scraper beneath the boule and flip it over 
-- Shape the boule by dragging it across the workspace; this will develop a smooth ‘skin’ on the top of the boule 
-- When the boule is shaped, let it rest and repeat with the second dough mass 
-- Let both boules rest for 20 minutes 
+<figure>
+    
+![Sourdough bread workspace](images/sourdough-bread-04.jpg)
+    
+<figcaption>Weigh out the levain</figcaption></figure>
 
 <figure>
 
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-14.jpg)
-    
-    <figcaption>
-    
-    Turn out the dough
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-15.jpg)
-    
-    <figcaption>
-    
-    Divide
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-16.jpg)
-    
-    <figcaption>
-    
-    First shaping
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-17.jpg)
-    
-    <figcaption>
-    
-    Shaping the second boule
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-18.jpg)
-    
-    <figcaption>
-    
-    Bench rest
-    
-    </figcaption>
-    
-    </figure>
-    
+![Sourdough bread making](images/sourdough-bread-05.jpg)
+
+<figcaption>Mix the water and levain</figcaption></figure>
 
 
+3. **Bulk Fermentation** – **3 Hours**
 
-</figure>
+As the name implies, the dough will do much of its rise during this period. In this method, the dough is not kneaded in the traditional way. Instead, the dough develops structure through a series of stretches and folds. I aim for a constant dough temperature of around 80 F. If the dough gets too cold, between folds I will leave it in an oven that has been warmed to 100 F then turned off.
 
-5. **Shaping and Proofing – 6-12 Hours** 
+- Add 20 g of salt
+- Add remaining 50 g of water at 87 F
+- Use your hands to thoroughly mix the dough, incorporating the salt and added water
+- Perform the first stretch and fold: grab a piece of dough, pull it up as far as it will stretch without breaking, then fold it back on itself, turn the vessel and continue until you have gone all the way around
+- For the next three hours, perform a stretch and fold every 30 minutes, for a total of six
+- At the end of three hours, the dough will has risen by around 30%, and will be very smooth and slack, and will pass the ‘window pane test’
 
-This is where the dough takes on its characteristic shape and finished fermenting. I use unlined banneton proofing baskets, this is where that swirly pattern comes from on the final bread. I now always do my proofing in the fridge. This allows for a longer fermentation, and I also find makes the process of scoring and transferring the bread much easier. 
+<figure>
 
-- For each boule, repeat the shaping process from the previous step 
-- Prepare the banneton baskets by dusting them liberally with flour; use rice flour to get the characteristic white swirl pattern 
-- Use your bench scraper to flip each boule into a banneton basket, what was the top of the boule is now on the bottom of the basket 
+![Sourdough bread making](images/sourdough-bread-08.jpg)
+    
+<figcaption>Second mix</figcaption></figure><figure>
+
+![Sourdough bread making](images/sourdough-bread-09.jpg)
+
+<figcaption>Ready for stretch and fold</figcaption></figure><figure>
+
+![Sourdough bread making](images/sourdough-bread-13.jpg)
+
+<figcaption>Stretch</figcaption></figure><figure>
+
+![Sourdough bread making](images/sourdough-bread-12.jpg)
+
+<figcaption>Stretch</figcaption></figure>
+
+4. **First Shaping and Bench Rest – 20 Minutes**
+
+This is where things can get a little tricky, especially if you are not experienced with handling a very slack dough. All I can say is, you need to use the “Carnegie Hall” method: practice, practice, practice. We are making two boules, so the first step is to divide the dough. Then we will shape the two halves into boules and let them rest before the next step.
+
+- Lightly flour your workspace
+- Lightly flour the top and edges of the dough
+- Turn the dough out onto the workspace
+- Using your bench scraper, shape the dough mass into a circle, this will allow you to eyeball where to divide the dough into two equal halves
+- Use your bench scraper to divide the dough
+- Add some flour to the dough where you divided it
+- Weigh each piece to see how close you came to equal, if necessary, add dough from one piece to another
+- Shape the first boule: grab a piece of dough, stretch and fold, turn 90 degrees and repeat for a total of four folds
+- Slide your bench scraper beneath the boule and flip it over
+- Shape the boule by dragging it across the workspace; this will develop a smooth ‘skin’ on the top of the boule
+- When the boule is shaped, let it rest and repeat with the second dough mass
+- Let both boules rest for 20 minutes
+
+<figure>
+
+![Sourdough bread making](images/sourdough-bread-14.jpg)
+
+<figcaption>Turn out the dough</figcaption></figure><figure>
+    
+![Sourdough bread making](images/sourdough-bread-15.jpg)
+    
+<figcaption>Divide</figcaption></figure><figure>
+
+![Sourdough bread making](images/sourdough-bread-16.jpg)
+
+<figcaption>First shaping</figcaption></figure><figure>
+
+![Sourdough bread making](images/sourdough-bread-17.jpg)
+
+<figcaption>Shaping the second boule</figcaption></figure><figure>
+
+![Sourdough bread making](images/sourdough-bread-18.jpg)
+
+<figcaption>Bench rest</figcaption></figure>
+
+5. **Shaping and Proofing – 6-12 Hours**
+
+This is where the dough takes on its characteristic shape and finished fermenting. I use unlined banneton proofing baskets, this is where that swirly pattern comes from on the final bread. I now always do my proofing in the fridge. This allows for a longer fermentation, and I also find makes the process of scoring and transferring the bread much easier.
+
+- For each boule, repeat the shaping process from the previous step
+- Prepare the banneton baskets by dusting them liberally with flour; use rice flour to get the characteristic white swirl pattern
+- Use your bench scraper to flip each boule into a banneton basket, what was the top of the boule is now on the bottom of the basket
 - Cover each basket, we found specialty covers that are made for this, prior to that, we used cling wrap 
-- Let the boules proof in the fridge 
+- Let the boules proof in the fridge
 
 <figure>
 
-- <figure>
-    
     ![Sourdough bread making](images/sourdough-bread-19.jpg)
-    
-    <figcaption>
-    
-    Readying the bannetons
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-20.jpg)
-    
-    <figcaption>
-    
-    Flip the first boule
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-21.jpg)
-    
-    <figcaption>
-    
-    Shaggy side up
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-22.jpg)
-    
-    <figcaption>
-    
-    Flip the second boule
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread making](images/sourdough-bread-23.jpg)
-    
-    <figcaption>
-    
-    Ready for proofing
-    
-    </figcaption>
-    
-    </figure>
-    
 
-
-
-</figure>
-
-6. **Scoring** 
-
-The purpose of scoring is to split the top of the boule to enable a strong rise in the oven. Some people take this to an artistic extreme, but I tend to be a little more utilitarian. It is worth investing in a lame. Before I had one, I tried to score the boules with a knife, and the results were disappointing. 
-
-PLEASE NOTE: for the next two steps, you are going to be dealing with an extremely hot oven, and two extremely hot dutch ovens. You need to have proper hand protection. I use silicone gloves. 
-
-- Place the two dutch ovens, lids on, near the bottom of your oven 
-- Pre-heat to 500 F for at least 30 minutes 
-- Take the first dutch oven out and remove the lid 
-- Quickly invert the first boule onto a lightly floured cutting board or pizza peel 
-- Use your lame to score the boule 
-- Carefully lift the boule and place it into the dutch oven (remember, it is 500 F, you will burn yourself badly if you touch it with bare hands or fingers) 
-- Place the lid on the dutch oven and return it to the oven 
-- Repeat with the second boule 
+<figcaption>Readying the bannetons</figcaption></figure>
 
 <figure>
 
-- <figure>
-    
+    ![Sourdough bread making](images/sourdough-bread-20.jpg)
+
+<figcaption>Flip the first boule</figcaption></figure>
+
+<figure>
+
+    ![Sourdough bread making](images/sourdough-bread-21.jpg)
+
+<figcaption>Shaggy side up</figcaption></figure>
+
+<figure>
+
+    ![Sourdough bread making](images/sourdough-bread-22.jpg)
+
+<figcaption>Flip the second boule</figcaption></figure>
+
+<figure>
+
+    ![Sourdough bread making](images/sourdough-bread-23.jpg)
+
+<figcaption>Ready for proofing</figcaption></figure>
+
+6. **Scoring**
+
+The purpose of scoring is to split the top of the boule to enable a strong rise in the oven. Some people take this to an artistic extreme, but I tend to be a little more utilitarian. It is worth investing in a lame. Before I had one, I tried to score the boules with a knife, and the results were disappointing.
+
+PLEASE NOTE: for the next two steps, you are going to be dealing with an extremely hot oven, and two extremely hot dutch ovens. You need to have proper hand protection. I use silicone gloves.
+
+- Place the two dutch ovens, lids on, near the bottom of your oven
+- Pre-heat to 500 F for at least 30 minutes
+- Take the first dutch oven out and remove the lid
+- Quickly invert the first boule onto a lightly floured cutting board or pizza peel
+- Use your lame to score the boule
+- Carefully lift the boule and place it into the dutch oven (remember, it is 500 F, you will burn yourself badly if you touch it with bare hands or fingers)
+- Place the lid on the dutch oven and return it to the oven
+- Repeat with the second boule
+
+<figure>
+
     ![Sourdough bread scoring](images/sourdough-bread-square-score.jpg)
-    
-    <figcaption>
-    
-    Scoring with a square pattern
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread scoring](images/sourdough-bread-stripe-score.jpg)
-    
-    <figcaption>
-    
-    Scoring with a stripe pattern
-    
-    </figcaption>
-    
-    </figure>
-    
 
+<figcaption>Scoring with a square pattern</figcaption></figure>
 
+<figure>
 
-</figure>
+![Sourdough bread scoring](images/sourdough-bread-stripe-score.jpg)
+    
+<figcaption>Scoring with a stripe pattern</figcaption></figure>
 
 7. **Baking**  
 
@@ -406,34 +238,15 @@ The purpose of baking in the dutch ovens with the lids on for the first part of 
 
 <figure>
 
-- <figure>
-    
-    ![Sourdough bread baking](images/sourdough-bread-square-bake.jpg)
-    
-    <figcaption>
-    
-    The square pattern baked
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread baking](images/sourdough-bread-stripe-bake-6.jpg)
-    
-    <figcaption>
-    
-    The striped pattern baked
-    
-    </figcaption>
-    
-    </figure>
-    
+![Sourdough bread baking](images/sourdough-bread-square-bake.jpg)
 
+<figcaption>The square pattern baked</figcaption></figure>
 
+<figure>
 
-</figure>
+![Sourdough bread baking](images/sourdough-bread-stripe-bake-6.jpg)
+
+<figcaption>The striped pattern baked</figcaption></figure>
 
 8. **Cooling** 
 
@@ -443,49 +256,24 @@ This is also an essential part of the process. Of course, you will be tempted to
 
 <figure>
 
-- <figure>
-    
-    ![Sourdough bread cooling](images/sourdough-bread-square-cool.jpg)
-    
-    <figcaption>
-    
-    Square pattern cooling
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Sourdough bread cooling](images/sourdough-bread-stripe-cool.jpg)
-    
-    <figcaption>
-    
-    Stripe pattern cooling
-    
-    </figcaption>
-    
-    </figure>
-    
+![Sourdough bread cooling](images/sourdough-bread-square-cool.jpg)
 
+<figcaption>Square pattern cooling</figcaption></figure>
 
+<figure>
 
-</figure>
+![Sourdough bread cooling](images/sourdough-bread-stripe-cool.jpg)
 
-## Some thoughts on this bread 
+<figcaption>Stripe pattern cooling</figcaption></figure>
 
-If you are not familiar with this style of bread, it may cause you to rethink some of your bread assumptions. First off, the notion of ‘freshness’ and avoiding ‘day old’ bread. This bread actually keeps getting better and better. The flavor continues to develop and starts to peak after about the third day. We were at a book event with Appolonia Poilâne from the famous French bakery, and she told a story of a vacation with friends. She had brought one of Poilâne’s famous miche breads, and she and her friends ate that one bread for over 12 days, using it in ways best suited to its characteristics on each subsequent day. 
+## Some thoughts on this bread
 
-There’s just two of us, and this is a substantial amount of bread. We will usually eat the first boule over about three days. At that point, we will slice up the second boule and pop it into a one gallon freezer bag and freeze it. That will usually keep us going for another few days. 
+If you are not familiar with this style of bread, it may cause you to rethink some of your bread assumptions. First off, the notion of ‘freshness’ and avoiding ‘day old’ bread. This bread actually keeps getting better and better. The flavor continues to develop and starts to peak after about the third day. We were at a book event with Appolonia Poilâne from the famous French bakery, and she told a story of a vacation with friends. She had brought one of Poilâne’s famous miche breads, and she and her friends ate that one bread for over 12 days, using it in ways best suited to its characteristics on each subsequent day.
+
+There’s just two of us, and this is a substantial amount of bread. We will usually eat the first boule over about three days. At that point, we will slice up the second boule and pop it into a one gallon freezer bag and freeze it. That will usually keep us going for another few days.
 
 <figure>
 
 ![Sourdough bread crumb](images/sourdough-bread-crumb-1.jpg)
 
-<figcaption>
-
-The crumb shot
-
-</figcaption>
-
-</figure>
+<figcaption>The crumb shot</figcaption></figure>

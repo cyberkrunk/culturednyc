@@ -33,7 +33,7 @@ Nézet-Séguin and the Philadelphia Orchestra will be returning over the coming 
 
 The evening began with a piece by [Valerie Coleman](https://www.vcolemanmusic.com/) (b. 1970). _Seven O'Clock Shout_ hearkens back to the days of COVID-19 lockdown, and the nightly 7:00 pm cheers for healthcare and frontline workers. The piece was also commissioned by the Philadelphia Orchestra who, astonishingly, gave Coleman only two weeks to complete it! (Coleman had previously been commissioned by the orchestra for their season opening concert in 2019. This ultra brief commissioning period demonstrates a profound mutual respect and trust that must have developed through that first commission.) The piece was commissioned in lockdown, and premiered in lockdown, with each musician recording their performance solo, the whole brought together in a video. Fanfares lead to lush Debussy-esque passages, to a rollicking 7:00 pm cheers.
 
-[blah](https://youtu.be/uvBkdLqbKfw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uvBkdLqbKfw?si=G2B2F8GUpS_LgGBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Mid-century modern
 
@@ -47,4 +47,6 @@ Next up was Leonard Bernstein’s overture to _Candide_. This piece is a staple 
 
 Carnegie Hall should be commended for taking several steps to reduce the risk of COVID-19 spread. All concert-goers had to show proof of vaccination status, along with photo ID, in order to enter the hall. Ticket holders were directed to specific entrances, with a specific early entry time, in order to reduce congestion. Masks were required for everyone in the audience (they were optional for the performers, and several wore them), and this was actually enforced by the ushers. I suspect that the ushers were monitoring the audience using video cameras, because several times an usher would rush up from the back of the hall to tell someone to mask up. I have to say this was all very welcome.
 
-You can watch the entire opening night concert [here](https://youtu.be/8c-cqmQueUo).
+You can watch the entire opening night concert here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8c-cqmQueUo?si=C9JRukUtcvd_5sqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
