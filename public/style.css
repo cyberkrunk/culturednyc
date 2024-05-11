@@ -11,12 +11,6 @@ body{
     font-family: Garamond, "Times New Roman", serif;
     font-size: 20px;
 }
-a:link{
-    color: #0073aa;
-}
-a:visited{
-    color: #0073aa;
-}
 nav{
     background-color: white;
     border-bottom: 1px solid gray;
@@ -37,13 +31,12 @@ nav a{
     text-decoration: none;
     display: flex;
     align-items: center;
-    color: black;
+    color: #0073aa;
     font-weight: bolder;
     letter-spacing: -0.5;
 }
 nav a:hover{
     text-decoration: underline;
-    outline-color: black;
 }
 nav li:first-child{
     margin-right: auto;
@@ -51,8 +44,6 @@ nav li:first-child{
 nav img{
     height: 48px;
     outline: 2px;
-    outline-width: 2px;
-    outline-color: black;
 }
 .sidebar{
     position: fixed;
@@ -138,16 +129,58 @@ p{
     line-height: 1.6;
     margin-bottom: 1.5em;
 }
-.post-list{
+.post-list ul{
     list-style-type: none;
 }
+.post-list a{
+    
+}
+.post-list a:link{
+    color: black;
+    text-decoration: none;
+}
+.post-list a:visited{
+    color: black;
+    text-decoration: none;
+}
+.post-list a:hover{
+    color: black;
+    text-decoration: underline;
+}
 .article-text{
+    padding-top: 1em;
+    border-top: 1px solid gray;
     max-width: 36em;
-    margin: auto;
+    margin: 1em auto 1em auto;
 }
 .article-text-small{
     font-size: 16px;
     line-height: 1.6;
+}
+.article-text a:link{
+    color: #0073aa;
+}
+.article-text a:visited{
+    color: #0073aa;
+}
+.article-text ul{
+    list-style: inside;
+    margin-bottom: 1em;
+}
+footer{
+    padding-top:  1em;
+    border-top: 1px solid gray;
+    font-size: 16px;
+    padding-bottom: 0.5em;
+}
+footer ul{
+    list-style-type: none;
+}
+footer a:link{
+    color: #0073aa;
+}
+footer a:visited{
+    color: #0073aa;
 }
 @media(max-width: 800px){
     .hideOnMobile{

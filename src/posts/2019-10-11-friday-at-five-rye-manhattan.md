@@ -18,6 +18,8 @@ For today, we will showcase [New York Distilling Company’s](https://www.nydist
 
 The cultured nyc reference library has a pretty deep cocktail section, so where to turn for our first post? How about Dave Wondrich’s Imbibe? We’re starting off old school here, and this book is all about the old school. The Manhattan Formula #3 (New Standard) comes courtesy of William “The Only William” Schmidt in The Flowing Bowl, 1892.
 
+## Rye Manhattan
+
 - Half a tumblerful of cracked ice
 - 2 dashes (1/2 Tsp) of gum
 - 2 dashes of absinthe
@@ -25,8 +27,12 @@ The cultured nyc reference library has a pretty deep cocktail section, so where 
 - 1/3 drink (1 oz) of vino vermouth
 - (a little maraschino may be added)
 
-- ![](images/DSC08051.jpg)
-- ![](images/DSC08056.jpg)
-- ![](images/DSC08071.jpg)
+Stir and serve in a chilled cocktail glass, garnished with a maraschino cherry.
+
+<div class="two-column">
+<figure><img src="images/DSC08051.jpg" alt="the ingredients"><figcaption>The ingredients</figcaption></figure>
+<figure><img src="images/DSC08056.jpg" alt="Nora's maraschino cherries"><figcaption>Nora's maraschino cherries</figcaption></figure>
+</div>
+<figure><img src="images/DSC08071.jpg" alt="the Rye Manhattan cocktail"><figcaption>Rye Manhattan</figcaption></figure>
 
 This is close to the Manhattan we always make here at cultured nyc, maybe a touch sweeter on the vermouth. Per Dave’s recommendation, we left out the simple syrup. We also left out the maraschino, but did add one of Nora’s very fine house-made [maraschino cherries](https://www.thekitchn.com/diy-recipe-boozy-cherries-3-wa-121134). I was, however, very curious about the absinthe. A tiny bit of absinthe can completely transform a drink. I was worried that this would turn into some sort of weird Sazerac. But it didn’t! Not quite anyway; it added a green ‘undertaste’. I don’t think I’ll turn this into my new standard, but I certainly enjoyed it.

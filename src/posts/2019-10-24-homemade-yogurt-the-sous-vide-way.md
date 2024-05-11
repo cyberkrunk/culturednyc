@@ -27,17 +27,24 @@ For the milk, I chose whole, non-homogenized, but lowfat would work well too. Fo
 
 The basic steps are simple: preheat the sous vide, warm the milk, cool the milk, whisk in the yogurt, place the mixture in jars in the sous vide bath, set the timer and wait.
 
-- ![Homemade yogurt ingredients, milk and starter.](images/homemade-yogurt-ingredients.jpg)
-- ![Homemade yogurt, heating and stirring milk.](images/homemade-yogurt-heating-milk.jpg)
+<div class="two-column">
+<figure><img src="images/homemade-yogurt-ingredients.jpg" alt="Homemade yogurt ingredients, milk and starter."><figcaption>Ingredients: milk and starter</figcaption></figure>
+<figure><img src="images/homemade-yogurt-heating-milk.jpg" alt="Homemade yogurt, heating and stirring milk."><figcaption></figcaption>Heating and stirring the milk</figure>
+</div>
 
-- ![Homemade yogurt, chilling milk.](images/homemade-yogurt-chilling-milk.jpg)
-- ![Milk cooling to the target temperature of 110 F.](images/homemade-yogurt-target-milk-temperature.jpg)
+<div class="two-column">
+<figure><img src="images/homemade-yogurt-chilling-milk.jpg" alt="Homemade yogurt, chilling milk.">Chilling  the milk<figcaption></figcaption></figure>
+<figure><img src="images/homemade-yogurt-target-milk-temperature.jpg" alt="Milk cooling to the target temperature of 110 F."><figcaption></figcaption>Target temperature of 110 F</figure>
+</div>
 
 I checked on my yogurt-in-progress a couple of times as it sat in its warm bath, and was amazed at how quickly the bacterial cultures got down to business. The milky mixture began to show signs of setting within the first hour. By the time I checked again, 8 hours in, it was definitely yogurt. I tasted a little and it had a familiar creamy texture, but was still a little bland. I let it go another few hours until it took on that classic tangy flavor.
 
-- ![Wisking the starter culture into milk for homemade yogurt.](images/homemade-yogurt-wisking-in-the-starter.jpg)
-- ![Filling jars with milk and culture in prep for sous vide homemade yogurt.](images/homemade-yogurt-filling-jars-in-prep-for-sous-vide.jpg)
-- ![Jars of milk and starter culture in sous vide for homemade yogurt.](images/homemade-yogurt-jars-in-sous-vide.jpg)
+<div class="two-column">
+<figure><img src="images/homemade-yogurt-wisking-in-the-starter.jpg" alt="Wisking the starter culture into milk for homemade yogurt"><figcaption>Wisking in the starter culture</figcaption></figure>
+<figure><img src="images/homemade-yogurt-filling-jars-in-prep-for-sous-vide.jpg" alt="Filling jars with milk and culture in prep for sous vide homemade yogurt."><figcaption>Filling the jars</figcaption></figure>
+</div>
+
+<figure><img src="images/homemade-yogurt-jars-in-sous-vide.jpg" alt="Jars of milk and starter culture in sous vide for homemade yogurt."><figcaption>Jars in the sous vide</figcaption></figure>
 
 ## Sous Vide Yogurt
 

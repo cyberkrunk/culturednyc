@@ -1,0 +1,36 @@
+---
+pagination:
+  data: categories
+  size: 1
+  alias: categories
+categories:
+ - food
+ - music
+ - friday at five
+ - nyc
+title: "Category archive."
+layout: "base.njk"
+author: "cultured nyc"
+description: "Category archive."
+permalink: "category/{{ categories | slugify }}/index.html"
+eleventyExcludeFromCollections: "true"
+---
+{%- for item in pagination.items %}
+    <h3>Category archive: {{ item }}</h3>
+    <br>
+    <div class="post-list">
+    <ul>
+    {% for post in collections.post | reverse %}
+        {% if post.data.categories == item %}
+            <h2><li><a href="{{ post.url }}">{{ post.data.title }}</a></li></h2>
+            <a href="{{ post.url }}"><img src="/posts/images/{{ post.data.coverImage }}" alt="{{ post.data.title }}"></a>
+            {% include 'byline.njk' %}
+            <br>
+            {{ post.data.description }}
+            <p></p>
+        {% endif %}
+    {% endfor %}
+    </ul>
+    </div>
+{% endfor -%}
+

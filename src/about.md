@@ -3,13 +3,15 @@ title: "About cultured nyc"
 date: "2019-10-11"
 author: "Chester Jankowski"
 permalink: "/about-cultured-nyc/"
-layout: "home.njk"
+layout: "base.njk"
 eleventyExcludeFromCollections: "true"
 ---
 
+<div class="article-text">
+
 <h3>{{ title }}</h3>
 
-<br><br>
+We started this project in the fall of 2019.
 
 <div class="two-column">
 
@@ -36,4 +38,4 @@ Chester Jankowski is a composer, musician, and technologist based in New York. H
 
 </div>
 
-<br><hr><br>
+</div>

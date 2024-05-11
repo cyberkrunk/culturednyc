@@ -24,19 +24,27 @@ The best Sazerac I ever had was years ago during [Tales of the Cocktail](https:/
 - Several dashes of absinthe
 - Lemon twist
 
-- [![Breuckelen Distillery bonded rye whiskey.](images/breuckelen-distillery-bonded-rye-whiskey.jpg)](https://www.culturednyc.com/breuckelen-distillery-bonded-rye-whiskey/)
-- [![St. George Spirits Absinthe Verte.](images/st-george-absinthe.jpg)](https://www.culturednyc.com/st-george-absinthe/)
-- [![Peychaud's bitters.](images/peychauds-bitters.jpg)](https://www.culturednyc.com/peychauds-bitters/)
+<div class="two-column">
+<figure><img src="images/breuckelen-distillery-bonded-rye-whiskey.jpg" alt="Breuckelen Distillery bonded rye whiskey."><figcaption>Breuckelen Distillery bonded rye whiskey</figcaption></figure>
+<figure><img src="images/st-george-absinthe.jpg" alt="St. George Spirits Absinthe Verte."><figcaption>St. George Spirits Absinthe Verte</figcaption></figure>
+</div>
+
+<figure><img src="images/peychauds-bitters.jpg" alt="Peychaud's bitters"><figcaption>Peychaud's bitters</figcaption></figure>
 
 ## Notes on Ingredients
 
 For the whiskey, we used [Breukelen Distilling](https://brkdistilling.com/)’s 77 Whiskey Bottled in Bond. We picked this up during [New York Rye Week](http://ryeweek.com/) at the [Union Square Greenmarket](https://www.grownyc.org/greenmarket/manhattan-union-square-m) and have been enjoying it neat, in cocktails and on the rocks. For the Absinthe, we used [St. George Spirits](http://www.stgeorgespirits.com/) Absinthe Verte. There is no substitute for the Peychaud’s bitters, although some reputable establishments, including the Napoleon House, use a mix of Peychaud’s and Angostura bitters.
 
-- ![Sazerac cocktail ingredients.](images/sazerac-cocktail-ingredients.jpg)
-- ![Sazerac cocktail Picardie tumblers.](images/sazerac-cocktail-tumblers.jpg)
-- ![Sazerac cocktail sugar and bitters.](images/sazerac-cocktail-sugar-and-bitters.jpg)
-- ![Sazerac cocktail stir and strain.](images/sazerac-cocktail-stir-and-strain.jpg)
-- ![Sazerac cocktail served in a Picardie tumbler.](images/sazerac-cocktail-served-in-picardie-tumbler.jpg)
+<div class="two-column">
+<figure><img src="images/sazerac-cocktail-ingredients.jpg" alt="Sazerac cocktail ingredients."><figcaption></figcaption>Ingredients</figure>
+<figure><img src="images/sazerac-cocktail-tumblers.jpg" alt="Sazerac cocktail Picardie tumblers."><figcaption></figcaption>Picardie tumblers</figure>
+</div>
+
+<div class="three-column">
+<figure><img src="images/sazerac-cocktail-sugar-and-bitters.jpg" alt="Sazerac cocktail sugar and bitters."><figcaption>Sugar and bitters</figcaption></figure>
+<figure><img src="images/sazerac-cocktail-stir-and-strain.jpg" alt="Sazerac cocktail stir and strain."><figcaption>Stir and strain</figcaption></figure>
+<figure><img src="images/sazerac-cocktail-served-in-picardie-tumbler.jpg" alt="Sazerac cocktail served in a Picardie tumbler"><figcaption>Sazerac cocktail</figcaption></figure>
+</div>
 
 ## Method
 

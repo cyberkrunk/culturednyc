@@ -1,27 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/style.css">
-    <title>{{ title }}</title>
-</head>
-<body>
-    <header>
-        {% include 'header.njk' %}
-    </header>
-    <main>
+---
+layout: "base.njk"
+---
+<article>
+    <div class="article-hero">
         <h1>{{ title }}</h1>
         <img src="images/{{ coverImage }}" alt="{{ title }}">
         {% include 'byline-article.njk' %}
-        <div class="article-text">
-        <br><br>
+    </div>
+    <div class="article-text">
         {{ content | safe }}
-        <br><br>
-        </div>
-    </main>
-
-    {% include 'script.njk' %}
-
-</body>
-</html>
+    </div>
+</article>

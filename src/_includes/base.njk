@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>{{ title }}</title>
+    <meta name="description" content="{{ description or 'cultured nyc' }}">
+    <meta name="author" content="{{ author or 'cultured nyc' }}">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://culturednyc.com{{ page.url }}">
+    <meta property="og:image" content="{{ coverImage }}">
+</head>
+<body>
+    <header>
+        {% include 'header.njk' %}
+    </header>
+    <main>
+        {{ content | safe }}
+    </main>
+    <script>
+        {% include 'script.njk' %}
+    </script>
+    <footer>
+        {% include 'footer.njk' %}
+    </footer>    
+</body>
+</html>

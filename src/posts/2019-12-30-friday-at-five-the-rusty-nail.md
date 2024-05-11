@@ -14,7 +14,7 @@ description: "We look at the the classic cocktail, the Rusty Nail. Is it an \"ol
 
 Is there such a thing as an “old man drink?” In the early 90s, we were in our 20s, and into cocktails. Although this predates the canonical “cocktail renaissance,” you could still find cocktails in Toronto. For the most part, the cocktails you were likely to encounter fell into three categories: 70s singles bar cocktails, contemporary twists on the same, a small subset of classic cocktails. Of that last group, the few classic cocktails you encountered weren’t likely to be particularly well-made. People were drinking [Manhattans](https://www.culturednyc.com/friday-at-five-rye-manhattan/), but in Toronto, they were usually made with Canadian whisky. (No doubt in part due to the confusion between Canadian rye and American straight rye. We would never make that mistake now, right?)
 
-Another Canadian twist on a classic cocktail is the Bloody Caesar, or in Canadian parlance, a “Caesar”. It’s a take on the Bloody Mary that substitutes clamato juice for tomato juice. It has a fascinating history whose details involve a Canadian and a Polish New Yorker—I’ll save that for a later post. Being contrary, I have always preferred Bloody Marys, mostly because they were the drink of one of my all-time favorite TV characters: Olivia “Mother” Jefferson, played so brilliantly by [Zara Cully](https://en.wikipedia.org/wiki/Zara_Cully). (A “grandma drink”?)
+Another Canadian twist on a classic cocktail is the Bloody Caesar, or in Canadian parlance, a “Caesar.” It’s a take on the Bloody Mary that substitutes clamato juice for tomato juice. It has a fascinating history whose details involve a Canadian and a Polish New Yorker—I’ll save that for a later post. Being contrary, I have always preferred Bloody Marys, mostly because they were the drink of one of my all-time favorite TV characters: Olivia “Mother” Jefferson, played so brilliantly by [Zara Cully](https://en.wikipedia.org/wiki/Zara_Cully). (A “grandma drink”?)
 
 You know what 20-somethings in Toronto weren’t drinking much? Martinis. At the time, classic Martinis had an old-man-drink vibe. To get a good one, you had to visit a place where old men hung out, like a steakhouse or a hotel bar. I distinctly remember a visit to the bar at the [Top o’ The Senator](https://thesenator.com/). There were four of us sitting at the bar and we ordered a round of Martinis. We got the Martinis and the check, unasked for, at the same time. Message received.
 
@@ -28,35 +28,19 @@ I began my Rusty Nail research at [Hudson Malone](http://www.hudsonmalone.com/).
 - ½ oz Drambuie
 - Build in tumbler with plenty of ice
 
+<div class="two-column">
 <figure>
 
-- <figure>
-    
     ![Rusty Nail cocktail at The Blasket NYC.](images/rusty-nail-small.jpg)
     
-    <figcaption>
-    
-    At The Blasket NYC
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
+    <figcaption>At The Blasket NYC</figcaption>
+</figure>
+
+<figure>
+
     ![Scotch and Drambuie.](images/scotch-and-drambuie.jpg)
     
-    <figcaption>
-    
-    Simple!
-    
-    </figcaption>
-    
-    </figure>
-    
-
-
-
-</figure>
+    <figcaption>Simple!</figcaption></figure>
+</div>
 
 _We hope you have been enjoying this series. We’re now going on a hiatus for January and will see you again later in the New Year. Please let us know in the comments if there are any cocktails you would like us to cover in future posts._

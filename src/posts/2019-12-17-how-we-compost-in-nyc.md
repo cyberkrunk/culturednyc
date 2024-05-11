@@ -3,7 +3,7 @@ title: "How We Compost in NYC"
 date: "2019-12-17"
 author: "Nora Maynard"
 categories: 
-  - "food"
+  - "nyc"
 tags: 
   - "nyc"
   - "composting"

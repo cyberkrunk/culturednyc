@@ -24,12 +24,7 @@ Mark would often show, and through him we got an introduction the NYC art scene.
 
 And so it went for years. Mark worked at a torturous pace all day, spent every night going to galleries and shows. Always making friends, always introducing new people to each other. Mark even became long-distance friends with Nora’s father, the philosopher [Patrick Maynard](https://publish.uwo.ca/~pmaynard/). Something we really miss is that Mark would buzz our door at the end of a night, 11 or 11:30. He would arrive usually bringing something to drink, even though we always had a well-stocked bar—I don’t think Mark liked arriving empty-handed. We would all catch up and have a night cap, and then he would usually doze off on our couch for a bit.
 
-<figure>
-
-![The artist Mark Wiener in his studio](images/mwiener-studio-crop.jpg)
-
-<figcaption>The artist Mark Wiener in his studio</figcaption>
-</figure>
+<figure><img src="images/mwiener-studio-crop.jpg" alt="The artist Mark Wiener in his studio"</a><figcaption>The artist Mark Wiener in his studio</figcaption></figure>
 
 Mark’s final studio was at the Cold Castle, the colloquial name for a group of studios in a building with no central heating at West 21st Street and 11th Avenue. Mark did some of his best [work](https://www.saatchiart.com/mwienerarts) there, and one of our favorite pieces from that era adorns our music studio at home. Years of non-stop striving began taking a toll. Mark worked hard and was successful enough to support himself in New York City through painting abstract canvasses. That’s amazing. But in America, we are content for our artists to live on the margins and forgo things that are considered basic necessities in other countries, like healthcare. Mark could pay rent on his apartment and studio through his painting, but one thing he did not have was health insurance. When he first felt his energy waning, he thought it was from overwork, but tragically, he learned he had a serious heart condition.
 
