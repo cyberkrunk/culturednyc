@@ -40,7 +40,7 @@ Composer Reginald de Koven had his first smash hit in New York with the operetta
 
 Looking for another hit, de Koven settled upon Rob Roy for more Robin Hood-ish action. I don’t know to what extent de Koven or librettist Harry Smith were inspired by Walter Scott’s novel, but certainly the novel would lend an air of rich-mahogany-many-leatherbound-books respectability to the affair. How to describe de Koven’s music? I guess calling it second-tier Gilbert and Sullivan would get you in the ball park. The rhythms are square, the harmonies are square, the tunes are written so that you can hum along the first time you hear them. There don’t seem to be any recordings in print, but Naxos did a well-produced recording of Robin Hood in 1981, many selections from which can be found in the usual places. I’ve leafed through the score of Rob Roy, and it certainly doesn’t seem to be any better, and the Times review would indicate that it didn’t quite reach the heights of Robin Hood.  
 
-![Rob Roy score.](images/rob-roy-score.jpg)
+<figure><img src="images/rob-roy-score.jpg" alt="Rob Roy score, cover page."><figcaption>Rob Roy score, cover page</figcaption></figure>
 
 Nonetheless, the show was a hit, running at the Herald Square Theatre through March 1894. And so, to celebrate the hit show running around the corner, one of the bartenders at the Waldorf came up with a show-themed cocktail, and the Rob Roy was born.
 
@@ -56,5 +56,7 @@ One last question remains, and that is, where to drink one? The original Waldorf
 
 At Keen’s, I tried two different Rob Roys. For the first, I was looking for a ‘straight down the middle’ blended scotch. They had just run out of Famous Grouse, so we went with Cutty Sark instead. We went 3:1 on the vermouth, and Angostura bitters. It was good, and would serve well as an evening opener. For the second, I wanted to try out a really peaty single malt. We went with Caol Ila, and this was a really good choice: it’s peaty but without the iodine, medicinal qualities of some other Islay malts. We also went sweeter with the vermouth on this one. Hugely different! I don’t think this would be my favorite way to start an evening, but I very well could see myself enjoying one of these by a fireplace as a night cap.
 
-- ![Rob Roy cocktail at Keen's Steakhouse, NYC.](images/rob-roy-cocktail.jpg)
-- ![Caol Ila single malt Scotch Whiskey.](images/rob-roy-cocktail-caol-ila.jpg)
+<div class="two-column">
+<figure><img src="images/rob-roy-cocktail.jpg" alt="Rob Roy cocktail at Keen's Steakhouse, NYC."><figcaption>Rob Roy cocktail at Keen's Steakhouse, NYC</figcaption></figure>
+<figure><img src="images/rob-roy-cocktail-caol-ila.jpg" alt="Caol Ila single malt Scotch Whiskey."><figcaption>Caol Ila single malt Scotch Whiskey</figcaption></figure>
+</div>

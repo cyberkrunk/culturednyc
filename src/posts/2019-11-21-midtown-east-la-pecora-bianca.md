@@ -21,66 +21,16 @@ Since then, Pecora has found its way into our regular rotation. The food here is
 
 The main dining area is rather large, on the bright side and with a volume level approaching high (although nowhere near the cacophony of the nearby [Smith](https://thesmithrestaurant.com/location/midtown/)). These are not our favorite attributes for a dining room, but somehow Pecora makes it all work. This is a very solid choice for entertaining out-of-town guests. Breakfasts and brunches, during which the scene is not as lively as dinner, are also good options.
 
-- <figure>
-    
-    ![La Pecora Bianca cheese and Produttori del Barbaresco](images/la-pecora-bianca-cheese-barbaresco-produttori.jpg)
-    
-    <figcaption>
-    
-    October 2017
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![La Pecora Bianca pappardelle](images/la-pecora-bianca-pappardelle.jpg)
-    
-    <figcaption>
-    
-    October 2017
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![La Pecora Bianca crudo](images/la-pecora-bianca-crudo.jpg)
-    
-    <figcaption>
-    
-    December 2017
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![La Pecora Bianca pasta with truffles](images/la-pecora-bianca-pasta-truffles.jpg)
-    
-    <figcaption>
-    
-    December 2017
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![La Pecora Bianca Nervi Gattinara and bucatini cacio e pepe](images/la-pecora-bianca-nervi-gattinara-bucatini-cacio-e-pepe.jpg)
-    
-    <figcaption>
-    
-    May 2018
-    
-    </figcaption>
-    
-    </figure>
-    
+<div class="two-column">
+<figure><img src="images/la-pecora-bianca-cheese-barbaresco-produttori.jpg" alt="La Pecora Bianca cheese and Produttori del Barbaresco, October 2017."><figcaption>October 2017</figcaption></figure>
+<figure><img src="images/la-pecora-bianca-pappardelle.jpg" alt="La Pecora Bianca pappardelle, October 2017."><figcaption>October 2017</figcaption></figure>
+</div>
+
+<div class="three-column">
+<figure><img src="images/la-pecora-bianca-crudo.jpg" alt="La Pecora Bianca crudo, December 2017."><figcaption>December 2017</figcaption></figure>
+<figure><img src="images/la-pecora-bianca-pasta-truffles.jpg" alt="La Pecora Bianca pasta with truffles, December 2017."><figcaption></figcaption>December 2017</figure>
+<figure><img src="images/la-pecora-bianca-nervi-gattinara-bucatini-cacio-e-pepe.jpg" alt="La Pecora Bianca Nervi Gattinara and bucatini cacio e pepe, May 2018."><figcaption>May 2018</figcaption></figure>
+</div>
 
 ## Details
 

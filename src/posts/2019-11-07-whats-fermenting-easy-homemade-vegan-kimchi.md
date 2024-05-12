@@ -23,17 +23,7 @@ You can buy small jars of artisanal versions for upwards of $10. I'm here to tel
 
 The active prep time is minimal. But with all the resting/fermenting required, it'll be four days at the very least until you have kimchi that's ready to eat. The ingredients are: Napa cabbage, daikon (Japanese radish), scallions, ginger, garlic, salt, sugar, plus a Korean a hot red pepper powder called [gochugaru](https://amzn.to/33qLvLl) (available at specialty stores such as [Kalustyan's](https://foodsofnations.com/) here in NYC and also online). Traditional non-vegan recipes include fish sauce and dried shrimp.
 
-<figure>
-
-![Vegan kimchi ingredients: Napa cabbage, ginger root, scallions, daikon, garlic, salt, sugar, korean chile powder](images/Vegan-Kimchi-Ingredients.jpg)
-
-<figcaption>
-
-Vegan kimchi ingredients: Napa cabbage, ginger root, scallions, daikon, garlic, salt, sugar, gochugaru.
-
-</figcaption>
-
-</figure>
+<figure><img src="images/Vegan-Kimchi-Ingredients.jpg" alt="Vegan kimchi ingredients: Napa cabbage, ginger root, scallions, daikon, garlic, salt, sugar, gochugaru."><figcaption>Vegan kimchi ingredients: Napa cabbage, ginger root, scallions, daikon, garlic, salt, sugar, gochugaru.</figcaption></figure>
 
 Kimchi relies on the same probiotic (human-friendly) bacterium for its fermentation as [sauerkraut](https://www.culturednyc.com/whats-fermenting-union-square-greenmarket-sauerkraut/): _lactobacillus acidophilus_. The bacteria are naturally present on the cabbage leaves and just need a little encouragement. That encouragement comes in the form of salt and being packed tightly in a container deprived of oxygen. Both of these things kill off the competing (human-unfriendly) bacteria, giving the _lactobacillus acidophilus_ freedom to take over. (If you're interested in reading more about the subject, I highly recommend books by [Sandor "Sandorkraut" Katz](https://www.wildfermentation.com/).)
 

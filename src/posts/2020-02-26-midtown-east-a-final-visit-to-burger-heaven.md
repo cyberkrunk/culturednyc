@@ -22,80 +22,18 @@ Later on, Burger Heaven on 53rd became my go-to work breakfast. I flew most week
 
 You get this touristy notion of gruff service people in New York, but the real story is that the city is filled with warm, friendly, funny people—if you know where to go, and especially if you become a regular. That counter was also a good place to people-watch and eavesdrop. On one of my last visits, a guy was having a work breakfast with a hedge fund manager he had just hired, “We’re gonna start you with a small position of 15 million and see what you can do with it.” Earlier that morning, we strolled past Willem Defoe walking solo along Park Avenue.
 
-<figure>
-
-- <figure>
-    
-    ![Burger Heaven NYC menu](images/burger-heaven-3.jpg)
-    
-    <figcaption>
-    
-    The Classic Menu
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Burger Heaven NYC lunch](images/burger-heaven-2.jpg)
-    
-    <figcaption>
-    
-    The Spread
-    
-    </figcaption>
-    
-    </figure>
-    
-
-
-
-</figure>
+<div class="two-column">
+<figure><img src="images/burger-heaven-3.jpg" alt="Burger Heaven NYC menu"><figcaption>The Classic Menu</figcaption></figure>
+<figure><img src="images/burger-heaven-2.jpg" alt="Burger Heaven NYC lunch"><figcaption>The Spread</figcaption></figure>
+</div>
 
 So today, we went to our closest branch, the only one still open, at Lex and 62nd. Nora ordered her diner standard: Whiskey Radio Down (tuna on rye toast) with coleslaw, and I went for a tuna melt and fries. Did we want any dessert? Yes, a chocolate shake and an egg cream. A few minutes later, our server came back and apologized, they were all out of shakes and egg creams because of the closing.
 
-<figure>
-
-- <figure>
-    
-    ![Burger Heaven NYC Radio Whiskey Down](images/burger-heaven-5.jpg)
-    
-    <figcaption>
-    
-    Radio Whiskey Down
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Burger Heaven NYC Tuna Melt](images/burger-heaven-4.jpg)
-    
-    <figcaption>
-    
-    Tuna Melt
-    
-    </figcaption>
-    
-    </figure>
-    
-
-
-
-</figure>
+<div class="two-column">
+<figure><img src="images/burger-heaven-5.jpg" alt="Burger Heaven NYC Radio Whiskey Down"><figcaption>Radio Whiskey Down</figcaption></figure>
+<figure><img src="images/burger-heaven-4.jpg" alt="Burger Heaven NYC Tuna Melt"><figcaption>Tuna Melt</figcaption></figure>
+</div>
 
 We chatted with our server over the check. “Do you know where you’re going after this?” “No,” she replied. I told her, “I used to go to 53rd Street and I never go the chance to say goodbye!” “I don’t want to cry!” she said, as she gave us a little hug. But she did, a bit, anyway.
 
-<figure>
-
-![Burger Heaven NYC](images/burger-heaven-6.jpg)
-
-<figcaption>
-
-So Long!
-
-</figcaption>
-
-</figure>
+<figure><img src="images/burger-heaven-6.jpg" alt="Burger Heaven NYC"><figcaption>So Long!</figcaption></figure>

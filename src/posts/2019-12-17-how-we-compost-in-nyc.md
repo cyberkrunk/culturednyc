@@ -24,17 +24,7 @@ This is when necessity nudged me in the right direction.
 
 I'd noticed that the two farmers' markets I liked to visit both had [compost drop-off stations](https://www.grownyc.org/compost). It was peak season for New York State sour cherries and I'd been meaning to make a batch of maraschinos--why not drop off my compost and pick up some fruit at the same time?
 
-<figure>
-
-![Waste trimmings from cutting radishes](images/Food-Scraps-from-Radishes.jpg)
-
-<figcaption>
-
-Roots and stems: compostable waste trimmings from radishes
-
-</figcaption>
-
-</figure>
+<figure><img src="images/Food-Scraps-from-Radishes.jpg" alt="Waste trimmings from cutting radishes"><figcaption>Roots and stems: compostable waste trimmings from radishes</figcaption></figure>
 
 Flash forward six months and I'm a committed composter. (And Chester, having returned from his two-week workshop to the puzzling sight of a collection of peach pits and spent teabags in the freezer, is now fully on board too.) Here are a few things we learned along the way:
 
@@ -50,17 +40,7 @@ Guidelines will vary from program to program, so it's best to check in with the 
 
 ## Where to Compost in NYC
 
-<figure>
-
-![Food-scrap-drop-off-Union-Square-NYC](images/Union-Square-Composting-Food-Scrap-Drop-Off-2.jpg)
-
-<figcaption>
-
-The food scrap drop-off at Union Square Greenmarket gets a lot of traffic
-
-</figcaption>
-
-</figure>
+<figure><img src="images/Union-Square-Composting-Food-Scrap-Drop-Off-2.jpg" alt="The food scrap drop-off at Union Square Greenmarket"><figcaption>The food scrap drop-off at Union Square Greenmarket</figcaption></figure>
 
 If you live in a large apartment building with many tenants interested in composting, [building management can set up centralized collection](https://www1.nyc.gov/assets/dsny/site/contact/organics-collection-application).
 

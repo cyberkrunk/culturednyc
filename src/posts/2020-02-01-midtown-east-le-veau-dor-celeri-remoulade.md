@@ -21,59 +21,12 @@ We bounced around different tables on our next few visits. We had the Orson Well
 
 In the Bourdain episode, he marveled that Le Veau served dishes so old-school that “no one makes this stuff anymore.” Two of those dishes became parts of our regular order: “Oeufs a la Neige” aka “Îles Flottantes,” and “Céleri Rémoulade.” When we spotted some beautiful (well, weird and wonderful) celery root at the Union Square Greenmarket last weekend, Nora and I both had the same idea: Céleri Rémoulade!
 
-<figure>
+<div class="three-column">
+<figure><img src="images/celeri-remoulade-3.jpg" alt="Celery Root"><figcaption>Celery Root</figcaption></figure>
+<figure><img src="images/celeri-remoulade-4.jpg" alt="Celery Root peeled"><figcaption>Peeled</figcaption></figure>
+<figure><img src="images/celeri-remoulade-2.jpg" alt="Mayonnaise"><figcaption>Mayonnaise</figcaption></figure>
+</div>
 
-- <figure>
-    
-    ![Celery Root](images/celeri-remoulade-3.jpg)
-    
-    <figcaption>
-    
-    Celery Root
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Celery Root peeled](images/celeri-remoulade-4.jpg)
-    
-    <figcaption>
-    
-    Peeled
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Mayonnaise](images/celeri-remoulade-2.jpg)
-    
-    <figcaption>
-    
-    Mayonnaise
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Celeri Remoulade](images/celeri-remoulade-5.jpg)
-    
-    <figcaption>
-    
-    Done
-    
-    </figcaption>
-    
-    </figure>
-    
-
-
-
-</figure>
+<figure><img src="images/celeri-remoulade-5.jpg" alt="Celeri Remoulade"><figcaption>Done!</figcaption></figure>
 
 For a recipe, I turned first to our trusty 1967 edition of Mastering the Art of French Cooking, but guess what, it’s not there! I found a recipe from [David Lebovitz](https://www.davidlebovitz.com/celery-root-remoulade-celeri-rem/) online. But it turns out, you don’t really need a recipe. Céleri Rémoulade is just shredded celery root dressed with mayonnaise and Dijon mustard. So simple, and it comes together in just a few minutes. To shred the celery root, begin by trimming away the outer skin. You end up with something that looks like a dodecahedron, or a D&D die. I used the shredding disc of our trusty Cuisinart for this. (I once heard a guest at Le Veau say to Cathy, “The rémoulade is great, you must have a mandoline in the kitchen?” and Cathy replied “No darling, to tell you the truth, he just uses a food processor!”) For the mayonnaise, I was able to rely on Julia’s recipe. It was actually my first time making it, and it was also a piece of cake. I used the blender for this, but upon reflection, it would have been smarter to use the same food processor for both. We were out of Dijon mustard, so I just used some of the fine Löwensenf we had on hand. A bit of seasoning, thirty minutes in the fridge, and it was like we were back at Le Veau!

@@ -17,95 +17,18 @@ Amanda Cohen, at the helm at [Dirt Candy](https://www.dirtcandynyc.com/), is arg
 
 The menu features five different burgers, fries with various toppings, salads, shakes, and a bar. The burgers are Cohen's own secret recipe. They're quite delicious, earthy, mushroomy, umami-y, with a satisfying heft and texture. The sides were great, and we loved the mango oat milk shake--we'll try vanilla with a shot of bourbon when we go back for dinner.
 
-<figure>
+<div class="three-column">
+<figure><img src="images/lekka-burger-3.jpg" alt="Burgers and sides at Lekka Burger"><figcaption>The Tray</figcaption></figure>
+<figure><img src="images/lekka-burger-5.jpg" alt="The Lekka Burger"><figcaption>Lekka Burger</figcaption></figure>
+<figure><img src="images/lekka-burger-4.jpg" alt="Lekka Cheeseburger"><figcaption>Lekka Cheeseburger</figcaption></figure>
+</div>
 
-- <figure>
+<div class="three-column">
+<figure><img src="images/lekka-burger-7.jpg" alt="The Lekka Burger"><figcaption>Lekka Burger</figcaption></figure>
+<figure><img src="images/lekka-burger-6.jpg" alt="Broccolini Caesar at Lekka Burger"><figcaption>Broccolini Caesar</figcaption></figure>
+<figure><img src="images/lekka-burger-2.jpg" alt="Mango Oat Milk Shake at Lekka Burger"><figcaption>Mango Oat Milk Shake</figcaption></figure>
+</div>
     
-    ![Burgers and sides at Lekka Burger](images/lekka-burger-3.jpg)
-    
-    <figcaption>
-    
-    The Tray
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![The Lekka Burger](images/lekka-burger-5.jpg)
-    
-    <figcaption>
-    
-    Lekka Burger
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Lekka Cheeseburger](images/lekka-burger-4.jpg)
-    
-    <figcaption>
-    
-    Lekka Cheeseburger
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![The Lekka Burger](images/lekka-burger-7.jpg)
-    
-    <figcaption>
-    
-    Lekka Burger
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Broccolini Caesar at Lekka Burger](images/lekka-burger-6.jpg)
-    
-    <figcaption>
-    
-    Broccolini Caesar
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Mango Oat Milk Shake at Lekka Burger](images/lekka-burger-2.jpg)
-    
-    <figcaption>
-    
-    Mango Oat Milk Shake
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Messy fries at Lekka Burger](images/lekka-burger-8.jpg)
-    
-    <figcaption>
-    
-    Messy Fries
-    
-    </figcaption>
-    
-    </figure>
-    
-
-
-
-</figure>
+<figure><img src="images/lekka-burger-8.jpg" alt="Messy fries at Lekka Burger"><figcaption>Messy Fries</figcaption></figure>
 
 Cohen's partner in Lekka is South-African-born philanthropist and climate activist Andrea Kerzner. The team's focus on zero-waste is evident; merchandise sold in the store benefits Grow NYC. It’s also a nice room with a friendly vibe. We can't wait to come back!

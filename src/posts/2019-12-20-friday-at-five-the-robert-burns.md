@@ -52,69 +52,17 @@ So at the very least, people drinking in the American Bar at the Savoy thought t
 
 So, where does that leave us? Well, to list everything, we are in doubt of the drink’s name, provenance, bitters-yea-or-nay, absinthe-yea-or-nay, Benedictine-vs-Drambuie, whiskey-to-vermouth. Given all the above, my assumption was that this would be another cocktail I would need to explain to every bartender. And that turned out to be incorrect! As a matter of fact, on my first outing on the trail of this drink, I went to [Hudson Malone](http://www.hudsonmalone.com/). I asked the bartender if he knew how to make a Robert Burns, or a Bobby Burns. And he said, ‘Oh yeah, the Bobby Burns is on our cocktail list!’ Well, there you go again, Doug Quinn for the win! I ordered the Bobby Burns and sampled it. Hmm. Pretty good, but it was not going to be my favorite. I asked which whiskey they were using, and it turned out to be a rail brand, whose name I shall not utter here. For round two, I asked for Famous Grouse, and Drambuie in place of the Benedictine. Also some arancini to help maintain my critical focus. Yes! This one works—quite decidedly.
 
-<figure>
-
-- <figure>
-    
-    ![Bobby Burns cocktail on the menu at Hudson Malone.](images/bobby-burns-cocktail-menu-hudson-malone.jpg)
-    
-    <figcaption>
-    
-    Bobby Burns cocktail on the menu at Hudson Malone.
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Bobby Burns cocktail at Hudson Malone in NYC.](images/bobby-burns-cocktail-hudson-malone.jpg)
-    
-    <figcaption>
-    
-    A Bobby Burns at Hudson Malone.
-    
-    </figcaption>
-    
-    </figure>
-    
-
-
-
-</figure>
+<div class="two-column">
+<figure><img src="images/bobby-burns-cocktail-menu-hudson-malone.jpg" alt="Bobby Burns cocktail on the menu at Hudson Malone."><figcaption>Bobby Burns cocktail on the menu at Hudson Malone.</figcaption></figure>
+<figure><img src="images/bobby-burns-cocktail-hudson-malone.jpg" alt="Bobby Burns cocktail at Hudson Malone in NYC."><figcaption>A Bobby Burns at Hudson Malone</figcaption></figure>
+</div>
 
 For my next Robert Burns, I enjoyed one pre-diner at [Bar Shun](https://shun-nyc.com/). A quick explainer to the bartender and we were off to the races. This was also very good, with much restraint on the sweet notes, and great balance. Swanky even, to match the swanky room. I had another Robert Burns at [The Blasket](https://www.theblasketpub.com/), which is a very nice Irish pub very close by. We were meeting our friend Liza Weisstuch. Liza is a whiskey expert and Guinness lover, so The Blasket was a good choice. The bartender, Liam, made me a fine Robert Burns. I asked him which Scotch he liked in cocktails like these, and he simply replied, “I don’t really like Scotch.” Fair enough!
 
-<figure>
-
-- <figure>
-    
-    ![Robert Burns cocktail at Bar Shun in NYC.](images/bobby-burns-cocktail-bar-shun-closeup.jpg)
-    
-    <figcaption>
-    
-    A Robert Burns at Bar Shun.
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Robert Burns cocktail at The Blasket.](images/robert-burns-cocktail-blasket.jpg)
-    
-    <figcaption>
-    
-    Robert Burns cocktail at The Blasket.
-    
-    </figcaption>
-    
-    </figure>
-    
-
-
-
-</figure>
+<div class="two-column">
+<figure><img src="images/bobby-burns-cocktail-bar-shun-closeup.jpg" alt="Robert Burns cocktail at Bar Shun in NYC."><figcaption>A Robert Burns at Bar Shun</figcaption></figure>
+<figure><img src="images/robert-burns-cocktail-blasket.jpg" alt="Robert Burns cocktail at The Blasket"><figcaption>Robert Burns cocktail at The Blasket</figcaption></figure>
+</div>
 
 ## My Robert Burns
 

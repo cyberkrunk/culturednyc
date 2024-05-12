@@ -29,17 +29,7 @@ For my own version today, I’m going to skip the Canadian whisky and opt instea
 - Ginger beer
 - Serve in a tumbler, on the rocks, or neat like my Dad liked
 
-<figure>
-
-![Ginger bug in a Le Parfait jar.](images/ginger-bug-le-parfait.jpg)
-
-<figcaption>
-
-Ginger bug, like a sourdough starter for ginger beer.
-
-</figcaption>
-
-</figure>
+<figure><img src="images/ginger-bug-le-parfait.jpg" alt="Ginger bug in a Le Parfait jar."><figcaption>Ginger bug, like a sourdough starter for ginger beer</figcaption></figure>
 
 ## Variations
 
@@ -47,26 +37,7 @@ For a classic Rye and Ginger, use Canadian whisky and commercial ginger ale. To 
 
 Here’s to you, Dad!
 
-- <figure>
-    
-    ![A ginger bug and jar of fermenting ginger beer.](images/ginger-bug-and-fermenting-ginger-beer.jpg)
-    
-    <figcaption>
-    
-    Ginger bug and fermenting ginger beer
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Rye and Ginger mixed drink.](images/rye-and-ginger-mixed-drink-closeup.jpg)
-    
-    <figcaption>
-    
-    A classy riff on Rye and Ginger.
-    
-    </figcaption>
-    
-    </figure>
+<div class="two-column">
+<figure><img src="images/ginger-bug-and-fermenting-ginger-beer.jpg" alt="A ginger bug and jar of fermenting ginger beer."><figcaption>Ginger bug and fermenting ginger beer</figcaption></figure>
+<figure><img src="images/rye-and-ginger-mixed-drink-closeup.jpg" alt="Rye and Ginger mixed drink."><figcaption>A classy riff on Rye and Ginger.</figcaption></figure>
+</div>

@@ -23,172 +23,37 @@ All of which is to say, we had some very high expectations for L’Atelier in Mi
 
 Settling down with an aperitif, Plymouth Martini (no onions for my preferred [Gibson](https://www.culturednyc.com/friday-at-five-the-gibson/)) for me, a glass of Rosé Champagne for Nora, the first step was to tackle the wine list. A somm appears, unprompted. Ideally for a meal like this, I’m looking for a red burgundy with some bottle age, something like a 2006 Gevrey-Chambertin would be perfect. I notice that the New Yorker couple has a 1998 Le Vieux Donjon sitting in front of them. I don’t see it on the list; I ask, and yes, they brought it from home. Must be some 1998 in the air, because the Somm guides us to a 1998 Vallet Frères [Morey-Saint-Denis](https://en.wikipedia.org/wiki/Morey-Saint-Denis_wine). It was very good! The Somm, who was French, advised against decanting, which I would have done, so he took care pouring it.
 
-<figure>
-
-- <figure>
-    
-    ![Plymouth Martini](images/atelier-joel-robuchon-11.jpg)
-    
-    <figcaption>
-    
-    Plymouth Martini
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![1998 Morey-Saint-Denis](images/atelier-joel-robuchon-10.jpg)
-    
-    <figcaption>
-    
-    1998 Morey-Saint-Denis
-    
-    </figcaption>
-    
-    </figure>
-    
-
-
-
-</figure>
+<div class="two-column">
+<figure><img src="images/atelier-joel-robuchon-11.jpg" alt="Plymouth Martini"><figcaption>Plymouth Martini</figcaption></figure>
+<figure><img src="images/atelier-joel-robuchon-10.jpg" alt="1998 Morey-Saint-Denis"><figcaption>1998 Morey-Saint-Denis</figcaption></figure>
+</div>
 
 ## The Menu
 
 Even though we were on an escape from winter, we ordered from the ‘aux saveurs d’hiver’ four-course menu. I started with caviar and crab, Nora with the beet salad. Both were delicious. Next course, we both had gnocchi with black truffle. Good, but I have some caveats. First, I am a gnocchi monster, so having a few on a small plate is not going to scratch the itch. Second, same goes for truffles--if you can count the number of truffle shavings on a dish (three), it can be a little underwhelming--_"un peu, mais pas assez!"_ Third, pasta should be either piping hot, or chilled I guess, and this was luke-warm. As we know from basic thermodynamics, a small body is going to radiate out all its heat much more quickly than a large body: a huge plate of pasta will stay hot, a tiny bowl will not.
 
-<figure>
-
-- <figure>
-    
-    ![Le Caviar et le Crab Royal](images/atelier-joel-robuchon-08.jpg)
-    
-    <figcaption>
-    
-    Le Caviar et le Crab Royal
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![La Betterave](images/atelier-joel-robuchon-09.jpg)
-    
-    <figcaption>
-    
-    La Betterave
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![La Truffe Noire](images/atelier-joel-robuchon-07.jpg)
-    
-    <figcaption>
-    
-    La Truffe Noire
-    
-    </figcaption>
-    
-    </figure>
-    
-
-
-
-</figure>
+<div class="three-column">
+<figure><img src="images/atelier-joel-robuchon-08.jpg" alt="Le Caviar et le Crab Royal"><figcaption>Le Caviar et le Crab Royal</figcaption></figure>
+<figure><img src="images/atelier-joel-robuchon-09.jpg" alt="La Betterave"><figcaption>La Betterave</figcaption></figure>
+<figure><img src="images/atelier-joel-robuchon-07.jpg" alt="La Truffe Noire"><figcaption>La Truffe Noire</figcaption></figure>
+</div>
 
 For our main course, we both had the Icelandic cod with caviar, baby leek, and Champagne sauce. Hello, we are back in Robuchon country! When the younger couple saw that dish come out, they ordered one for themselves. I have to admit, I think Champagne sauce is from Heaven. It reminded me of the sauce that comes with the Quenelle de Brochet at [Le Coucou](https://lecoucou.com/). I should also state that this dish came with a side of chef Robuchon's famous mashed potatoes, which it is safe to assume are 50/50 potatoes and butter.
 
-<figure>
-
-- <figure>
-    
-    ![Le Cabillaud](images/atelier-joel-robuchon-06.jpg)
-    
-    <figcaption>
-    
-    Le Cabillaud
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Mashed Potatoes](images/atelier-joel-robuchon-05.jpg)
-    
-    <figcaption>
-    
-    Mashed Potatoes
-    
-    </figcaption>
-    
-    </figure>
-    
-
-
-
-</figure>
+<div class="two-column">
+<figure><img src="images/atelier-joel-robuchon-06.jpg"" alt="Le Cabillaud"><figcaption>Le Cabillaud</figcaption></figure>
+<figure><img src="images/atelier-joel-robuchon-05.jpg" alt="Mashed Potatoes"><figcaption>Mashed Potatoes</figcaption></figure>
+</div>
 
 We still had plenty of wine left at this point (the New Yorker couple was smartly taking a leisurely pace through dinner, enjoying their wine, instructing the team when to fire the next course), so we added a cheese course. I haven’t mentioned L’Atelier’s bread yet, and it’s worth mentioning! In addition to the expected mini baguettes, they offered bread with Comté cheese baked in, as well as little snail-shaped croissants—all so good that we needed another round with the cheese.
 
-<figure>
-
-![Les Fromages Affinés](images/atelier-joel-robuchon-04.jpg)
-
-<figcaption>
-
-Les Fromages Affinés
-
-</figcaption>
-
-</figure>
+<figure><img src="images/atelier-joel-robuchon-04.jpg" alt="Les Fromages Affinés"><figcaption>Les Fromages Affinés</figcaption></figure>
 
 The desserts were also both very good: Nora had Le Calamansi with a glass of 2005 Chateau d’Yquem, and I had Le Chocolat Sensation, with a vintage port. All in all, it was a lovely meal with my best gal. The next night? Valentine’s Day, and we know better than to brave that one, so we opted instead for pizza in Miami Beach, at [Lucali](https://www.lucalimenu.com/).
 
-<figure>
+<div class="two-column">
+<figure><img src="images/atelier-joel-robuchon-02.jpg" alt="Le Calamansi"><figcaption>Le Calamansi</figcaption></figure>
+<figure><img src="images/atelier-joel-robuchon-01.jpg" alt="Le Chocolat Sensation"><figcaption>Le Chocolat Sensation</figcaption></figure>
+</div>
 
-- <figure>
-    
-    ![Le Calamansi](images/atelier-joel-robuchon-02.jpg)
-    
-    <figcaption>
-    
-    Le Calamansi
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Le Chocolat Sensation](images/atelier-joel-robuchon-01.jpg)
-    
-    <figcaption>
-    
-    Le Chocolat Sensation
-    
-    </figcaption>
-    
-    </figure>
-    
-
-
-
-</figure>
-
-<figure>
-
-![Chateau d'Yquem 2005](images/atelier-joel-robuchon-03.jpg)
-
-<figcaption>
-
-Chateau d'Yquem 2005
-
-</figcaption>
-
-</figure>
+<figure><img src="images/atelier-joel-robuchon-03.jpg" alt="Chateau d'Yquem 2005"><figcaption>Chateau d'Yquem 2005</figcaption></figure>

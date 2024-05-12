@@ -35,27 +35,19 @@ In our home kitchen, Chester added a Polish element by using some of our [homema
 
 The tangy-sour fermented taste balances out nicely with the dash of granulated sugar krautfleckerl recipes traditionally call for. Caramelized onions lend a little sweetness too.
 
-<figure>
-
-- ![Rolling pasta for Krautfleckerl](images/krautfleckerl-4.jpg)
-- ![Rolling pasta for Krautfleckerl](images/krautfleckerl-3.jpg)
-- ![Rolling pasta for Krautfleckerl](images/krautfleckerl-2.jpg)
-
-<figcaption>
-
-Chester hand rolling the pasta
-
-</figcaption>
-
-
-
-</figure>
+<div class="three-column">
+<figure><img src="images/krautfleckerl-4.jpg" alt="Rolling pasta for Krautflecker"><figcaption>Rolling...</figcaption></figure>
+<figure><img src="images/krautfleckerl-3.jpg" alt="Rolling pasta for Krautflecker"><figcaption>rolling...</figcaption></figure>
+<figure><img src="images/krautfleckerl-2.jpg" alt="Rolling pasta for Krautflecker"><figcaption>rolling!</figcaption></figure>
+</div>
 
 He made the noodles from scratch using Marcella Hazan's recipe (2 eggs and 1 cup of flour--that's all you need for the dough!). He rolled it out in our pasta machine, then cut it into squares.
 
-![](images/Cutting-fresh-pasta-into-squares-3.jpg)
-
-![](https://i0.wp.com/www.culturednyc.com/wp-content/uploads/2020/02/Mixing-Pasta-Cabbage-Krautflecker.jpg?ssl=1)
+<div class="three-column">
+<figure><img src="images/Rolled-out-pasta-strips.jpg" alt="The rolled out pasta strips"><figcaption>The rolled out pasta strips</figcaption></figure>
+<figure><img src="images/Cutting-fresh-pasta-into-squares.jpg" alt="Cutting the strips"><figcaption>Cutting the strips</figcaption></figure>
+<figure><img src="images/Mixing-Pasta-Cabbage-Krautflecker.jpg" alt="Final mixing"><figcaption>Final mixing</figcaption></figure>
+</div>
 
 This was a labor-intensive but delicious weekend version of the recipe. For a quick weeknight dinner, store-bought egg noodles (or really any other wide, flatish pasta like farfalle) would do just fine. Either way, the ingredients are very inexpensive for such a satisfying and luxurious-tasting dish.
 
@@ -75,5 +67,7 @@ Set a pot of water for the pasta on the stove at high heat and bring to a boil. 
 
 Meanwhile cook and drain the pasta. Combine in the pan with the cabbage mixture and heat and stir a minute or two, to allow the flavors to combine. Serve immediately. We enjoyed our Krautfleckerl with a great Austrian wine, 2016 Moric Blau Fränkisch.
 
-- ![Moric Blau Fränkisch Austrian Wine](images/krautfleckerl-6.jpg)
-- ![Wiener Krautfleckerl](images/krautfleckerl-5.jpg)
+<div class="two-column">
+<figure><img src="images/krautfleckerl-6.jpg" alt="Moric Blau Fränkisch Austrian Wine"><figcaption>Moric Blau Fränkisch Austrian Wine</figcaption></figure>
+<figure><img src="images/krautfleckerl-5.jpg" alt="Wiener Krautfleckerl in a bowl"><figcaption>Plated</figcaption></figure>
+</div>
