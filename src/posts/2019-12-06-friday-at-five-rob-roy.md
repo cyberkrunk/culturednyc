@@ -8,7 +8,7 @@ tags:
   - "cocktails"
   - "scotch whiskey"
   - "whiskey"
-coverImage: "bar-wladorf-hotel.jpg"
+coverImage: "bar-waldorf-hotel.jpg"
 description: "A look at the Rob Roy cocktail, invented at the Waldorf Hotel bar in 1894 to celebrate the operetta of the same name by composer Reginald de Koven."
 ---
 

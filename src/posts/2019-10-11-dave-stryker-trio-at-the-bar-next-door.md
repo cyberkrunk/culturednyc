@@ -6,7 +6,7 @@ categories:
   - "music"
 tags: 
   - "jazz"
-coverImage: "IMG_3513.jpg"
+coverImage: "dave-stryker-cover.jpg"
 description: "Our review of the Dave Stryker Trio at the Bar Next Door."
 ---
 

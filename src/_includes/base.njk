@@ -8,9 +8,11 @@
     <meta name="description" content="{{ description or 'cultured nyc' }}">
     <meta name="author" content="{{ author or 'cultured nyc' }}">
     <meta property="og:title" content="{{ title }}">
-    <meta property="og:type" content="website">
+    <meta property="og:type" content="{{ ogType or 'website' }}">
     <meta property="og:url" content="https://culturednyc.com{{ page.url }}">
-    <meta property="og:image" content="{{ coverImage }}">
+    <meta property="og:image" content="https://culturednyc.com/assets/{{ coverImage }}">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
 </head>
 <body>
     <header>

@@ -6,7 +6,7 @@ categories:
   - "music"
 tags: 
   - "jazz"
-coverImage: "IMG_3437.jpg"
+coverImage: "barry-harris-cover.jpg"
 description: "Our review of the Barry Harris Trio at the Village Vanguard."
 ---
 

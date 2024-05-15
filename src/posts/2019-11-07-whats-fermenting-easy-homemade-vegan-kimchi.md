@@ -31,15 +31,21 @@ I made my very first batch of vegan kimchi three years ago. I'd never tried my h
 
 I'm a much more confident home fermenter now, but am hooked on this vegan version of kimchi (one day I'm going to try the shrimp). I make it regularly, and over the years have adjusted the ingredients and prep method slightly to my preferences. Traditional recipes call for whole Napa cabbage leaves--or, for larger batches, an intact, whole head of it, with the seasonings packed between the leaves (cool video [here](https://www.instagram.com/p/B4Y8m1wBHuX/)). But I found tearing the leaves into smaller pieces made them easier to handle every step of the way. They were easier to salt, easier to mix with the chili paste, and easier to pack in--and pull out of--jars.
 
-![Kimchi cabbage mixture before wilting](images/Kimchi-Cabbage-Mixture-After-Wilting-1.jpg)
+<div class="two-column">
+<figure><img src="images/Kimchi-Cabbage-Mixture-Before-Wilting.jpg" alt="Kimchi cabbage mixture before wilting"><figcaption>Before wilting</figcaption></figure>
+<figure><img src="images/Kimchi-Cabbage-Mixture-After-Wilting.jpg" alt="Kimchi cabbage mixture after wilting"><figcaption>After wilting</figcaption></figure>
+</div>
 
 I also learned the measurements don't need to be exact. If you only have three scallions on hand instead of six, three scallions will do just fine. Same goes for garlic and ginger--and the hot pepper. You even have some leeway with the amount of salt. As for the countertop fermentation, 24 hours is a basic minimum, but in cooler weather I let it go for about 36. The kimchi will get more and more sour as the process goes on. Once it's in the fridge, fermentation will continue but at a much slower rate. Feel free to adjust to your own tastes.
 
-![Kimchi paste in a food processor.](images/Mixing-Kimchi-Paste-With-Cabbage.jpg)
+<div class="two-column">
+<figure><img src="images/Food-Processor-Kimchi-Paste.jpg" alt="Kimchi paste in a food processor."><figcaption>The paste in a food processor</figcaption></figure>
+<figure><img src="images/Mixing-Kimchi-Paste-With-Cabbage.jpg" alt="Mixing the kimchi paste with the cabbage"><figcaption>Mixing</figcaption></figure>
+</div>
 
 ## Vegan Kimchi
 
-(adapted from J. Kenji López-Alt at [Serious Eats](https://www.seriouseats.com/recipes/2012/01/homemade-vegan-kimchi-recipe.html))
+Adapted from J. Kenji López-Alt at [Serious Eats](https://www.seriouseats.com/recipes/2012/01/homemade-vegan-kimchi-recipe.html)
 
 - 1 head of Napa cabbage (1-2 lbs)
 - 2-3 tablespoons non-idodized salt (kosher or sea salt)

@@ -8,7 +8,7 @@ tags:
   - "cocktails"
   - "rye whiskey"
   - "whiskey"
-coverImage: "DSC08058-2.jpg"
+coverImage: "rye-manhattan-cover.jpg"
 description: "For the inaugural post of cultured nyc's cocktail column, we take a look at one of the great classics: the Manhattan."
 ---
 

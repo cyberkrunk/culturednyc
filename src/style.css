@@ -172,6 +172,9 @@ p{
     list-style-type: decimal;
     margin-bottom: 1em;
 }
+blockquote{
+    margin: 80px;
+}
 footer{
     padding-top:  1em;
     border-top: 1px solid gray;

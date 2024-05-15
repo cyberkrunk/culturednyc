@@ -15,9 +15,11 @@ Friday was a gorgeous day in New York, perfect for our weekly visit to the [Unio
 
 I grew up in a very Polish household. Every house we lived in had either a proper root cellar, or various nooks in the basement where my mother squirreled away mass quantities of canned foods and homemade treasures: dill pickles, jams, and always a giant vat of sauerkraut. You may think that the Polish national dish is pierogi or cabbage rolls, but in fact, that honor goes to bigos. Bigos is a hunter’s stew made sauerkraut, fresh cabbage, and various meats. Growing up, it was served at pretty much every formal dinner my parents had with their various friends and relatives. I never really cared for it as a kid, and haven’t really had the opportunity to try it since becoming a pescatarian over twenty-five years ago. We will try out some vegetarian bigos recipes in coming weeks. I am also really dying to try a vegetarian Reuben sandwich recipe.
 
-- ![Sauerkraut ingredients, cabbages, carrots, salt.](images/sauerkraut-ingredients-cabbage-carrots.jpg)
-- ![Sauerkraut chopping cabbages.](images/sauerkraut-chopping-cabbage.jpg)
-- ![Sauerkraut shredding carrots.](images/sauerkraut-shredding-carrots.jpg)
+<div class="two-column">
+<figure><img src="images/sauerkraut-ingredients-cabbage-carrots.jpg" alt="Sauerkraut ingredients: cabbages, carrots, salt."><figcaption>Sauerkraut ingredients: cabbages, carrots, salt</figcaption></figure>
+<figure><img src="images/sauerkraut-chopping-cabbage.jpg" alt="Sauerkraut chopping cabbages."><figcaption>Chopping cabbages</figcaption></figure>
+</div>
+<figure><img src="images/sauerkraut-shredding-carrots.jpg" alt="Sauerkraut shredding carrots."><figcaption>Shredding carrots</figcaption></figure>
 
 ## Ingredients
 
@@ -41,9 +43,11 @@ I grew up in a very Polish household. Every house we lived in had either a prope
 11. NB: if using a lidded Mason jar, you must periodically loosen the jar or open the lids to allow gasses to escape. Fermentation will be at its most vigorous for the first few days.
 12. Periodically taste. After a few days, it will be crispy and fresh tasting, for weeks and months after that, it will develop sourness and deeper flavors. Eat it when you like it!
 
-- ![](images/sauerkraut-squeezing.jpg)
-- ![Sauerkraut packing jars.](images/sauerkraut-packing-jars.jpg)
-- ![Sauerkraut in jars.](images/sauerkraut.jpg)
+<div class="two-column">
+<figure><img src="images/sauerkraut-squeezing.jpg" alt="Squeezing the cabbage"><figcaption>Squeezing the cabbage</figcaption></figure>
+<figure><img src="images/sauerkraut-packing-jars.jpg" alt="Sauerkraut packing jars."><figcaption>Packing the jars</figcaption></figure>
+</div>
+<figure><img src="images/sauerkraut.jpg" alt="Sauerkraut in jars."><figcaption>Ready to ferment!</figcaption></figure>
 
 ## Notes
 

@@ -11,8 +11,6 @@ eleventyExcludeFromCollections: "true"
 
 <h3>{{ title }}</h3>
 
-We started this project in the fall of 2019.
-
 <div class="two-column">
 
 Nora Maynard’s writing has appeared in _Salon_, _Food Republic_, _Leite’s Culinaria_, and _Chowhound_. She did a six-year run as a writer at _The Kitchn_ with her weekly columns “The Celluloid Pantry” (on food and drink in film) and “Straight Up” (on cocktails and spirits). [noramaynard.com](http://www.noramaynard.com)

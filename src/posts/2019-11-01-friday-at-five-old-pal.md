@@ -34,30 +34,9 @@ The drink was created by Harry MacElhone, of Harry's New York Bar in Paris, in h
 - 1 oz Dry Vermouth
 - Lemon twist
 
-- <figure>
-    
-    ![Old Pal ingredients.](images/old-pal-ingredients.jpg)
-    
-    <figcaption>
-    
-    Old Pal ingredients.
-    
-    </figcaption>
-    
-    </figure>
-    
-- <figure>
-    
-    ![Old Pal vs. Boulevardier.](images/old-pal-vs-boulevardier.jpg)
-    
-    <figcaption>
-    
-    Old Pal versus Boulevardier.
-    
-    </figcaption>
-    
-    </figure>
-    
+<figure><img src="images/old-pal-ingredients.jpg" alt="Old Pal ingredients."><figcaption>Old Pal ingredients</figcaption></figure>
+
+<figure><img src="images/old-pal-vs-boulevardier.jpg" alt="Old Pal vs. Boulevardier."><figcaption>Old Pal vs. Boulevardier</figcaption></figure>
 
 ## Method
 
@@ -67,14 +46,4 @@ Given the similarities between the Old Pal and the Boulevardier, I thought it wo
 
 And speaking of old pals, our friend Kara Newman has a great book, "[Shake. Stir. Sip.](https://amzn.to/2NAP9LX)" which features the Old Pal, and about 50 other equal parts cocktails. It's worth checking out, as are all her books!
 
-<figure>
-
-![Kara Newman's book Shake Stir Sip, and the Old Pal cocktail.](images/shake-stir-sip-old-pal-cocktail.jpg)
-
-<figcaption>
-
-Kara Newman's great book, _Shake. Stir. Sip._ features equal parts cocktails.
-
-</figcaption>
-
-</figure>
+<figure><img src="images/shake-stir-sip-old-pal-cocktail.jpg" alt="Kara Newman's book Shake Stir Sip, and the Old Pal cocktail."><figcaption>Kara Newman's great book, Shake. Stir. Sip. features equal parts cocktail</figcaption></figure>
