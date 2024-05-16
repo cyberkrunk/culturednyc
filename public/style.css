@@ -202,4 +202,10 @@ footer a:visited{
     .sidebar{
         width: 100%;
     }
+    h1{
+        color: black;
+        font-size: 48px;
+        font-weight: normal;
+        line-height: 1.2;
+    }
 }
