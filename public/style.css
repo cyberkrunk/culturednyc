@@ -173,7 +173,9 @@ p{
     margin-bottom: 1em;
 }
 blockquote{
-    margin: 80px;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-left: 2px solid #0073aa;
 }
 footer{
     padding-top:  1em;
