@@ -42,8 +42,7 @@ nav li:first-child{
     margin-right: auto;
 }
 nav img{
-    height: 48px;
-    outline: 2px;
+
 }
 .sidebar{
     position: fixed;
