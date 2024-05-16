@@ -13,13 +13,13 @@ eleventyExcludeFromCollections: "true"
 
 <div class="two-column">
 
-Nora Maynard’s writing has appeared in _Salon_, _Food Republic_, _Leite’s Culinaria_, and _Chowhound_. She did a six-year run as a writer at _The Kitchn_ with her weekly columns “The Celluloid Pantry” (on food and drink in film) and “Straight Up” (on cocktails and spirits). [noramaynard.com](http://www.noramaynard.com)
+Nora Maynard is a freelance writer and editor based in New York City. She’s the co-founder and co-editor of [-ette review](https://ettereview.com/), a journal of very short fiction. Her short fiction, essays, interviews and food writing have appeared in _Salon_, _The Millions_, the _Ploughshares Blog_, _Pangyrus_, _Drunken Boat_, _Killing the Buddha_, _Leite’s Culinaria_, _Food Republic_, and _Apartment Therapy: The Kitchn_, where she did a six-year run as [weekly columnist](https://www.thekitchn.com/authors/nora-maynard). [noramaynard.com](http://www.noramaynard.com)
 
 <figure>
 
 ![Nora Maynard in Paris with seafood tower.](images/nora-maynard-paris-georgesV-seafood-tower.jpg)
 
-<figcaption>Nora Maynard - co-founder</figcaption>
+<figcaption>Nora Maynard</figcaption>
 </figure>
 </div>
 
@@ -31,7 +31,7 @@ Chester Jankowski is a composer, musician, and technologist based in New York. H
 
 ![Chester Jankowski in Berlin at David Bowie's neighborhood bar.](images/chester-jankowski-berlin-bowie-picture.jpg)
 
-<figcaption>Chester Jankowski - co-founder</figcaption>
+<figcaption>Chester Jankowski</figcaption>
 </figure>
 
 </div>
