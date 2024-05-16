@@ -12,6 +12,7 @@ author: "cultured nyc"
 description: "Author archive."
 permalink: "author/{{ authors | slugify }}/index.html"
 eleventyExcludeFromCollections: "true"
+coverImage: "culturednyc-og-image.png"
 ---
 {%- for item in pagination.items %}
     <h3>Author archive: {{ item }}</h3>

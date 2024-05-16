@@ -14,6 +14,7 @@ author: "cultured nyc"
 description: "Category archive."
 permalink: "category/{{ categories | slugify }}/index.html"
 eleventyExcludeFromCollections: "true"
+coverImage: "culturednyc-og-image.png"
 ---
 {%- for item in pagination.items %}
     <h3>Category archive: {{ item }}</h3>
