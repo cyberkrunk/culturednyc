@@ -83,18 +83,18 @@ nav img{
 }
 .byline{
     font-size: smaller;
-    color: gray;
+    color: black;
 }
 .byline a:link{
-    color: gray;
+    color: black;
     text-decoration: none;
 }
 .byline a:visited{
-    color: gray;
+    color: black;
     text-decoration: none;
 }
 .byline a:hover{
-    color: gray;
+    color: black;
     text-decoration: underline;
 }
 figure{
